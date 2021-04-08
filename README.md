@@ -13,5 +13,5 @@ It aims to build a Chinese diachronic treebank with data from 1950-2010.
 * There are 308001 characters in the corpus 1978-1999 (excluding punctuation characters).
 * There are 341750 characters in the corpus 2000-2010 (including punctuation characters).
 * There are 304219 characters in the corpus 2000-2010 (excluding punctuation characters).
-* There are 987665 characters in the corpus (including punctuation characters)
-* There are 877839 characters in the corpus (excluding punctuation characters)
+* There are 987665 characters in the corpus overall (including punctuation characters).
+* There are 877839 characters in the corpus overall (excluding punctuation characters).
