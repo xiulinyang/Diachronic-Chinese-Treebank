@@ -13,7 +13,7 @@ It aims to build a Chinese diachronic treebank with data from 1950-2010.
 * There are 5703 characters in the sample corpus (including punctuation characters).
 * There are 5062 characters in the sample corpus (excluding punctuation characters).
 
-Aiming to build a balanced corpus, this corpus is designed with reference to of State Language Committee Modern Chinese Corpus and Lancaster Corpus of Mandarin Chinese (changes are made because of the litmitation of available data), and the texts are sampled from the following categories.
+Aiming to build a balanced corpus, this corpus is designed with reference to the State Language Committee Modern Chinese Corpus and Lancaster Corpus of Mandarin Chinese (changes are made because of the litmitation of available data), and the texts are sampled from the following categories.
 | Domain	|Percentage	|Literature	|Percentage	|Date	|Percentage|
 |-------|-----------|------------|----------|------|----------|
 | Press Reportage/Editorials|	30%	|General/Romantic Fiction|	50%	|1950-1965|	25%|
