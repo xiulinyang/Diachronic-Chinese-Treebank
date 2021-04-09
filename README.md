@@ -22,5 +22,5 @@ Aiming to build a balanced corpus, this corpus is designed with reference to the
 | | |Science/Detective Fiction|	10%	|2000 -2010	|35%|
 
 <sub> Press reportage and editorials are mainly from People's Daily and Reference News, two representative Chinese newspapers;
- Others in general includes Chinese government report each year and books in other fields including history, philosophy, and academic theories;
- Others in literature inlcudes biographies, non-fiction novel, and literary criticism.</sub>
+ others in general includes Chinese government report each year and books in other fields including history, philosophy, and academic theories;
+ others in literature inlcudes biographies, non-fiction novel, and literary criticism.</sub>
