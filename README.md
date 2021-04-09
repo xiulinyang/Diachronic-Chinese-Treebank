@@ -21,3 +21,6 @@ Aiming to build a balanced corpus, this corpus is designed with reference to the
 | Others	|20%	|Others|	10%	|1977 -1999	|35%|
 | | |Science/Detective Fiction|	10%	|2000 -2010	|35%|
 
+*Press reportage and editorials are mainly from People's Daily and Reference News, two representative Chinese newspapers.
+*Others in general includes Chinese government report each year and books in other fields including history, philosophy, and academic theories.
+*Others in literature inlcudes biographies, non-fiction novel, and literary criticism.
