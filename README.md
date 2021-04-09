@@ -13,7 +13,7 @@ It aims to build a Chinese diachronic treebank with data from 1950-2010.
 * There are 5703 characters in the sample corpus (including punctuation characters).
 * There are 5062 characters in the sample corpus (excluding punctuation characters).
 
-Aiming to build a balanced corpus, this corpus is designed with reference to the State Language Committee Modern Chinese Corpus and Lancaster Corpus of Mandarin Chinese (changes are made because of the litmitation of available data), and the texts are sampled from the following categories.
+Aiming to build a balanced corpus, this corpus is designed with reference to the State Language Committee Modern Chinese Corpus(a diachronic corpus) and Lancaster Corpus of Mandarin Chinese (a synchronic corpus) (changes are made because of the litmitation of available data), and the texts are sampled from the following categories.
 | Domain	|Percentage	|Literature	|Percentage	|Date	|Percentage|
 |-------|-----------|------------|----------|------|----------|
 | Press Reportage/Editorials|	30%	|General/Romantic Fiction|	50%	|1950-1965|	25%|
@@ -21,6 +21,6 @@ Aiming to build a balanced corpus, this corpus is designed with reference to the
 | Others	|20%	|Others|	10%	|1977 -1999	|35%|
 | | |Science/Detective Fiction|	10%	|2000 -2010	|35%|
 
-- Press reportage and editorials are mainly from People's Daily and Reference News, two representative Chinese newspapers.
-- Others in general includes Chinese government report each year and books in other fields including history, philosophy, and academic theories.
-- Others in literature inlcudes biographies, non-fiction novel, and literary criticism.
+<sub> Press reportage and editorials are mainly from People's Daily and Reference News, two representative Chinese newspapers;
+ Others in general includes Chinese government report each year and books in other fields including history, philosophy, and academic theories;
+ Others in literature inlcudes biographies, non-fiction novel, and literary criticism.</sub>
