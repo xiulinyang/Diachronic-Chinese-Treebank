@@ -10,7 +10,14 @@ It aims to build a Chinese diachronic treebank with data from 1950-2010.
 |  1978-1999         | 346527         |  308001         |
 |  2000-2010         |  341750        |   304219           |
 | overall | 987665|877839|
-
 * There are 5703 characters in the sample corpus (including punctuation characters).
 * There are 5062 characters in the sample corpus (excluding punctuation characters).
+
+Aiming to build a balanced corpus, the texts are sampled from the following categories.
+| Domain	|Percentage	|Literature	|Percentage	|Date	|Percentage|
+|-------|-----------|------------|----------|------|----------|
+| Press Reportage/Editorials|	30%	|General/Romantic Fiction|	50%	|1950-1965|	25%|
+| Literature	|50%	|Prose	|30%	|1966-1976	|5%|
+| Others	|20%	|Others|	10%	|1977 -1999	|35%|
+| |Science/Detective Fiction|	10%	|2000 -2010	|35%|
 
