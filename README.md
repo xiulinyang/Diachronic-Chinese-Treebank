@@ -9,7 +9,7 @@ It aims to build a Chinese diachronic treebank with data from 1950-2010.
 | 1966-1976          |  50320   |  44087     |
 |  1978-1999         | 346527         |  308001         |
 |  2000-2010         |  341750        |   304219           |
-| overall | 987665|877839|
+| Total | 987665|877839|
 * There are 5703 characters in the sample corpus (including punctuation characters).
 * There are 5062 characters in the sample corpus (excluding punctuation characters).
 
