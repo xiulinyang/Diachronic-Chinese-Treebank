@@ -10,6 +10,8 @@ ssl._create_default_https_context = ssl._create_unverified_context
 '''GET THE NEWS FROM PEOPLE'S DAILY(1950-2003) AND REFERENCE NEWS(1950-2002)'''
 headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36'}
 
+''' It is observed that each link is composed of two parts: a base url and a date string.'''
+
 # cf. https://blog.csdn.net/qq_34869990/article/details/103382782
 def get_date(start, end):
     datalist = []
@@ -30,7 +32,7 @@ ppl_fourth = get_date('2000-1-1', '2003-12-31')
 ppl_base_url = 'https://www.laoziliao.net/rmrb/'
 
 
-# define a function generating all possible urls for newspaper extraction.
+# define a function generating all possible urls for newspaper extraction， and num1 and num2 refer to possible pages of the newspaper.
 def get_url(base_url, date_collection, num1, num2):
     url_collection = []
     for date in date_collection:
@@ -64,19 +66,20 @@ def getText(collection):
         text3 = re.sub(r'】', ' ', text2)
         text_final = text3.split()
         for para in text_final:
+            # to delete the title
             if len(para) > 15:
                 txt.append(para)
     return txt
 
 
-# calculate the number of characters and text is a list type
+# calculate the sum of characters and text is a list in type
 def textlen(text):
     num = 0
     for i in range(len(text)):
         num += len(text[i])
     return num
 
-
+# calculate the sum of characters without punctuation markers.
 def characterlen(text):
     pat = r"\w"
     num = 0
@@ -100,6 +103,7 @@ def storeText(data, filename):
     for para in data:
         file_work.write(para)
 
+'''REFERENCE NEWS'''
 
 # get all possible links from Reference News
 refnews_first = get_date('1957-3-1', '1965-12-31')
