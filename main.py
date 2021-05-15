@@ -1,7 +1,10 @@
 from ddparser import DDParser
 import re
-import spacy
-from spacy import displacy
+
+
+
+# using ddparser
+ddp = DDParser(use_pos=True)
 
 # define a function to cut sentences
 def cut_sent(text):
@@ -12,12 +15,6 @@ def cut_sent(text):
         new_sents.append(sent)
     return new_sents
 '''（['\n', '。', '！', '？', '；', '：', ':', ' ', '……', ';', '（', '）']）、然后对于长度超过threshold的句子，把它们按照逗号切成尽量均匀、尽量少的分句；一些做得粗糙一点的就直接“ ？！。；”切开完事r了～'''
-# nlp = spacy.load('zh_core_web_sm')
-ddp = DDParser(use_pos=True)
-
-# module = hub.Module(name ='ddpaser')
-print(ddp.parse('饭我吃完了。'))
-b= ddp.parse(['做完作业了你？','学习，学个屁。','世界上最遥远的距离，就是我在学习，你没在学习。'])
 
 def count_type(parsedsents):
     type_list =[]
@@ -26,10 +23,6 @@ def count_type(parsedsents):
             if word not in type_list:
                 type_list.append(word)
     return len(type_list)
-
-
-
-
 
 
 # define a function to generate conllx format
