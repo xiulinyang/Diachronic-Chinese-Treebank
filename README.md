@@ -3,13 +3,13 @@
 This is my project for Option B Computational Linguistics. 
 It aims to build a Chinese diachronic treebank with data from 1950-2010.
 
-| Period of Time  | Number of Characters including punctuation characters | Number of Characters excluding punctuation characters |
-| ------------- | ------------- |-----------------|
-| 1950-1965          | 249068   | 221532   |
-| 1966-1976          |  50320   |  44087     |
-|  1978-1999         | 346527         |  308001         |
-|  2000-2010         |  341750        |   304219           |
-| Total | 987665|877839|
+| Period of Time  | Number of Characters including punctuation characters | Number of Characters excluding punctuation characters |tokens | types | sentences
+| ------------- | ------------- |-----------------|--------| -------| ----------
+| 1950-1965          | 246,684   | 221,081   | 148,759 |22,036 | 7,195
+| 1966-1976          |  50,040   |  44,180    | 31,227 |6,881 | 1,398
+|  1978-1999         | 355,388         |  318,964         | 213,684 | 29,389 | 9,221
+|  2000-2010         |  355,388        |   310,749           | 204,687 | 28,067 | 9,611
+| Total | 997,124|894,874| 593,460 | 57,131 | 27,622
 * There are 5703 characters in the sample corpus (including punctuation characters).
 * There are 5062 characters in the sample corpus (excluding punctuation characters).
 
