@@ -2746,7 +2746,7 @@
 俺不要你的钱，你也不让；俺给你隔两天另做点吃，你也不让。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 “啊呀!咱比王宗济年轻呀!人家四十多岁，咱二十多岁，村内威信不够，怎办？	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 素芳只好按实说：	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
-[								      代表主任撅起大屁股挖土，他兄弟振海推土车。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
+代表主任撅起大屁股挖土，他兄弟振海推土车。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 这算啥哩？	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 放了水的稻地里，到处是星光闪闪。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 “这就是咱们村干部的重要性儿!”他最后强调指出，不恰当地使用脱离生产干部们的术语。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
@@ -2926,7 +2926,7 @@
 郭振山满腮胡楂，筐子里提着两个哼哼卿卿的猪娃，过来了。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 他要给社干部们显示一下：	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 “大叔!”郭振山为了少拿租子，顾不得情面，说，“咱们都是在郭家河穷得立不住脚，搬到蛤蟆滩来的哎。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
-[								      “不对！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
+“不对！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 皆因组织决定他暂时不人社，他就想自己建社。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 黄堡镇粮食购销站门前，穷庄稼人们排起很长的队，依次买粗杂粮。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 你放心，俺慢慢教育他们呀！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
@@ -3006,7 +3006,7 @@
 他破坏个鬼！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 啊呀！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 原来老汉说的是生宝！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
-[								      这是为什么呢？	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
+这是为什么呢？	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 矮矮胖胖的铁锁王三说：	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 “这些稻地的租子怎么算呢？”	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 我郭振山不服他，啥党也不在，就拿打架的笨法子和他较量。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
@@ -3366,7 +3366,7 @@
 生宝好容易有话说了，“俺互助组拴拴他爸真难缠，对拴拴进山，总不放心。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 这位小心谨慎的农业社副主任从乡政府出来，碰见汤河下游各村的庄稼人经过这里到黄堡去上集，他想起给社里的两个饲养室买两根扁担和两对笼子，让饲养员们起粪好用。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 人家把一家人的命根子交给咱们，为了过好光景，不是图热闹！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
-[								      喜脑里来了。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
+喜脑里来了。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 “你看你！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 你没盯见吗？”	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 天变了！	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
@@ -3477,7 +3477,7 @@
 老汉却叫住他。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 我想毛主席那句话的意思，就在这里。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 “啥意恩!人家会说：	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
-“加喜现时当啥副组长？"	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
+“加喜现时当啥副组长？	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 “对嘛！”	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 梁生宝一时间突出的表现，也不能把他估计高了。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 他就是和富农搭伙种地去了。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
@@ -3721,7 +3721,7 @@
 他在校院里青砖平房中间东拐西弯的走道上，挺胸阔步走着，沿路又碰见有三个人在低声说这事，他也不再停下来听了。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 留偏分头的少年人，把互助组各家按照老习惯在阳光下晒了四五天的“百日黄”稻种，收集到生宝的草棚院里。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 相差十五岁年龄，并不妨碍两口子在地主三套四合院的前院，多年凝结起来的感情。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
-[								      杨国华失望地看着陶书记令人沮丧的态度。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
+杨国华失望地看着陶书记令人沮丧的态度。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 看见了他们，老汉皱纹脸上有了一丝笑容。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 事实很快地表明了中共渭原县委副书记的设想是实事求是的。	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
 我家生活比较富裕，只要你答复我的要求，我父亲同意供你上中学……”	{'year': '1959', 'genre': 'literature', 'category': 'general fiction', 'name': '创业史'}
@@ -4551,7 +4551,7 @@
 出来了这半天，该是回去的时候了。	{'year': '1958', 'genre': 'literature', 'category': 'general fiction', 'name': '青春之歌'}
 “不，老罗，你的想法太天真啦！	{'year': '1958', 'genre': 'literature', 'category': 'general fiction', 'name': '青春之歌'}
 你，一个年轻女孩子可不能再去冒险。”	{'year': '1958', 'genre': 'literature', 'category': 'general fiction', 'name': '青春之歌'}
-’”罗大方比划着，挥着拳头、红涨着面孔小声呐喊着。	{'year': '1958', 'genre': 'literature', 'category': 'general fiction', 'name': '青春之歌'}
+罗大方比划着，挥着拳头、红涨着面孔小声呐喊着。	{'year': '1958', 'genre': 'literature', 'category': 'general fiction', 'name': '青春之歌'}
 你一定要拿出主妇的殷勤好好招待人家。	{'year': '1958', 'genre': 'literature', 'category': 'general fiction', 'name': '青春之歌'}
 他是个小心谨慎、处世稳健的人，他知道过早地表露是一种危险，因此，他一直按捺着自己的感情，只是根据道静的情形适可而止地谈着各种使她中意的话语。	{'year': '1958', 'genre': 'literature', 'category': 'general fiction', 'name': '青春之歌'}
 他心里焦急地想着那个他要找的“贵人”，道静说的什么他根本没听见。	{'year': '1958', 'genre': 'literature', 'category': 'general fiction', 'name': '青春之歌'}
@@ -5704,7 +5704,7 @@
 或曰，其人须极新。	{'year': '1965', 'genre': 'literature', 'category': 'prose', 'name': '周作人文集之生活情趣'}
 但是怎么是恰好的时期，别人仍不能知道，只有听熟的耳朵才能够断定，正如骨董家的眼睛辨别古物一样。	{'year': '1965', 'genre': 'literature', 'category': 'prose', 'name': '周作人文集之生活情趣'}
 契河夫（Tshekhob）书简集中有一节道，(那时他在爱珲附近旅行，)“我请一个中国人到酒店里喝烧酒，他在未饮之前举杯向着我和酒店主人及伙计们，说道“请。”	{'year': '1965', 'genre': 'literature', 'category': 'prose', 'name': '周作人文集之生活情趣'}
-）气味，觉得不喜欢，洋井如有百尺深，则水味清甘大可用得，古时所谓甜水井甚为希有，城内才二三处，现今用铁管凿井法，甜水也就随处可得了。	{'year': '1965', 'genre': 'literature', 'category': 'prose', 'name': '周作人文集之生活情趣'}
+气味，觉得不喜欢，洋井如有百尺深，则水味清甘大可用得，古时所谓甜水井甚为希有，城内才二三处，现今用铁管凿井法，甜水也就随处可得了。	{'year': '1965', 'genre': 'literature', 'category': 'prose', 'name': '周作人文集之生活情趣'}
 可是有一层，这决不可能吃饱当饭，一则因为价钱比较贵，二则昔时无此习惯。	{'year': '1965', 'genre': 'literature', 'category': 'prose', 'name': '周作人文集之生活情趣'}
 原来这可以泡茶吃的，虽然味大苦涩，不但我不能多吃，便是且将就斋主人也只喝了两口，要求泡别的茶吃了。	{'year': '1965', 'genre': 'literature', 'category': 'prose', 'name': '周作人文集之生活情趣'}
 其次是一块圆顶碑式的松烟墨，边款曰，鉴莹斋珍藏。	{'year': '1965', 'genre': 'literature', 'category': 'prose', 'name': '周作人文集之生活情趣'}
@@ -5740,7 +5740,7 @@
 我这儿可带着"王法"呢！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 那才救得了穷人，那才能抵制外货，那才能救国！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 他是这么说的吗？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔刘麻子丢了魂似的跑来，和李三碰了个满怀。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+刘麻子丢了魂似的跑来，和李三碰了个满怀。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 今儿个城外头乱乱哄哄，买不到菜；东抓西抓，抓到这么两只鸡，几斤老腌萝卜。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 三十多岁。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 秦仲义我不但收回房子，而且把乡下的地，城里的买卖也都卖了！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -5813,7 +5813,7 @@
 常四爷是呀，您的眼力不错！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 唐铁嘴之子，继承父业，有作天师的愿望。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 你敢！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔刘麻子早已看见庞太监，但不敢靠近，怕打搅了庞太监、秦仲义的谈话。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+刘麻子早已看见庞太监，但不敢靠近，怕打搅了庞太监、秦仲义的谈话。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 王利发崔先生，昨天秦二爷派人来请您，您怎么不去呢？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 来，坐下喝一碗，我们也都是外场人。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 那是妄想！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -5828,7 +5828,7 @@
 康大力掌柜的，你要不打我呀，我会帮助妈妈干活儿！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 王利发这年月，作官的今天上任，明天撤职，作买卖的今天开市，明天关门，都不可靠！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 您圣明，我胡涂！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔常四爷、松二爷正往外走，宋恩子和吴祥子进来。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+常四爷、松二爷正往外走，宋恩子和吴祥子进来。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 没有枪的干不过有枪的，是吧？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 （递钞票） 大兵牛。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 宋恩子您的记性可也不错！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -5850,7 +5850,7 @@
 十三岁。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 胆小而爱说话。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 也没带个底下人？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔唐铁嘴踏拉着鞋，身穿一件极长极脏的大布衫，耳上夹着几张小纸片，进来。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+唐铁嘴踏拉着鞋，身穿一件极长极脏的大布衫，耳上夹着几张小纸片，进来。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 老陈你说吧！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 王利发总管，您里边歇着吧！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 王利发有不打仗的新闻没有？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -5872,7 +5872,7 @@
 常四爷李三，要两个烂肉面，带她们到门外吃去！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 地点北京，裕泰大茶馆。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 难道我跟李三爷就该累死？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔因为修理门面，茶馆停了几天营业，预备明天开张。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+因为修理门面，茶馆停了几天营业，预备明天开张。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 外场人不作老娘们事！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 王利发好吧，我慢慢给你打听着！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 大英帝国的烟，日本的"白面儿"，两大强国侍候着我一个人，这点福气还小吗？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -5914,13 +5914,13 @@
 王利发唉，一边作一边学吧，指着这个吃饭嘛。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 刘麻子现大洋？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 死马不能再活，活马可早晚得死！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔茶房们一趟又一趟地往后面送茶水。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-北京城内的大茶馆已先后相继关了门。"	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+茶房们一趟又一趟地往后面送茶水。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+北京城内的大茶馆已先后相继关了门。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 （看见常四爷）这不是常四爷吗？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 作过国会议员，后来修道，住在裕泰附设的公寓里。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 我来给你道喜！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 在几十年前，每城都起码有一处。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-ń忧拢呈帜米吡娇樾伦啦迹巡警得，我给你挡住了一场大锅！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+巡警得，我给你挡住了一场大锅！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 松二爷我！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 可是你要叫我们碰见，我们也不再睁一眼闭一眼！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 （要打，但是伸不出手去，一劲地颤抖）你，你，你个……	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -5933,7 +5933,7 @@
 庞太监等吃喜酒吧！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 秦仲义（老气横秋地）完不完，并不在乎有人给穷人们一碗面吃没有。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 给总管磕头！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔马五爷在不惹人注意的角落，独自坐着喝茶。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+马五爷在不惹人注意的角落，独自坐着喝茶。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 离这里不远啦！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 救了他自己，他越来越有钱了！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 常四爷（往原处走）哼，我就不佩服吃洋饭的！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -5948,7 +5948,7 @@
 康六宫里当差的谁要个乡下丫头呢？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 又打得紧吗？	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 吴祥子对啦！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔有两位茶客，不知姓名，正眯着眼，摇着头，拍板低唱。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+有两位茶客，不知姓名，正眯着眼，摇着头，拍板低唱。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 现在，连我们也欠饷啊！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 有两三位茶客，也不知姓名，正入神地欣赏瓦罐里的蟋蟀。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 刚装来的，地道英国造，又细又纯！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -6016,7 +6016,7 @@
 王利发不忙，待会儿再算吧！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 四十岁。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 李三哼！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
-〔宋恩子、吴祥子不语，坐在靠近门口的地方，看着刘麻子等。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
+宋恩子、吴祥子不语，坐在靠近门口的地方，看着刘麻子等。	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 小王，说真的，我真想收回这里的房子！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 刘麻子有现大洋，没有办不了的事！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
 宝贝！	{'year': '1958', 'genre': 'literature', 'category': 'others', 'name': '茶馆'}
@@ -6081,7 +6081,7 @@
 这种精神是令人敬佩的。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 具有朴素唯物主义和自发辩<script-->，比做一根红线，贯穿全文；他们当时也以一条绳和钱币为比喻，这同我们现在的比喻一样，具有很强的形象性。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 家人嗃嗃，郑云：	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
-主要著作有<script-->，其他研究部门，同样应该进一步更有系统地整理对本部门有用的古书，把古人珍贵的遗产好好地继承下来，加以发展。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
+主要著作有，其他研究部门，同样应该进一步更有系统地整理对本部门有用的古书，把古人珍贵的遗产好好地继承下来，加以发展。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 一句话，我只希望有个别热心的朋友，在条件允许的时候，注意试验一下，看看结果如何。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 唐代北海太守李邕，擅长书法，当时名满天下，许多人士都学他的字体，而李邕自己却不以为然。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 “大戟，其根辛苦，戟人咽喉，故名。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
@@ -6302,7 +6302,7 @@ d身思狡兔；侧目似愁胡。	{'year': '1961', 'genre': 'literature', 'cate
 古来这样的例子不胜枚举。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 蜂有君臣之礼。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 其中不但有历史著作，还有各种文艺创作，它们的作者都根据自己所处的时代特点，按照自己的立场、观点，通过王昭的故事，表达不同的思想感情。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
-<script-->，一般都不包括地层深处的泉水。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
+一般都不包括地层深处的泉水。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 晋代张华的《博物志》说：	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 “猫，苗、茅二音，其名自呼。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
 我们现在如果大胆地把“玄牝”解释为原子核，那末，这句话的意思也就容易弄明白了。	{'year': '1961', 'genre': 'literature', 'category': 'prose', 'name': '燕山夜话'}
