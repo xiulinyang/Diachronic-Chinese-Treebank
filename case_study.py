@@ -1,5 +1,5 @@
 from ddparser import DDParser
-from main import cut_sent, build_conllx, characterlen, count_type
+from main import characterlen, count_type, get_corp
 
 ddp = DDParser(use_pos=True)
 # count the frequency of a specific deprel term
@@ -12,74 +12,47 @@ def count_rel(text, head, info):
             count+= sentence[head].count(info)
     return format(count/len(text), '.2f')
 
-print('Begin reading the treebank.')
-treebank_1950 = open('corpus_50_65.txt', 'r', encoding = 'utf-8').read()
-print('a')
-sents_1950 = cut_sent(treebank_1950)
-print('b')
+
+# parse the texts of different corpora
+sents_1950 = get_corp('corpus_50_65.txt')
 data_1950 = ddp.parse(sents_1950)
 print('Finish reading the treebank_1950.')
 
-treebank_1966 = open('corpus_66_76.txt', 'r', encoding = 'utf-8').read()
-sents_1966 = cut_sent(treebank_1966)
+sents_1966 = get_corp('corpus_66_76.txt')
 data_1966 = ddp.parse(sents_1966)
 print('Finish reading the treebank_1966.')
 
-treebank_1978 = open('corpus_78_99.txt', 'r', encoding = 'utf-8').read()
-sents_1978 = cut_sent(treebank_1978)
+sents_1978 = get_corp('corpus_78_99.txt')
 data_1978 = ddp.parse(sents_1978)
 print('Finish reading the treebank_1978.')
 
-treebank_2000 = open('corpus_00_10.txt', 'r', encoding = 'utf-8').read()
-sents_2000 = cut_sent(treebank_2000)
+sents_2000 = get_corp('corpus_00_10.txt')
 data_2000 = ddp.parse(sents_2000)
 print('Finish reading the treebank_2000.')
 
 
-
-treebank_web = open('web_fiction.txt', 'r', encoding='utf-8').read()
-sents_web = cut_sent(treebank_web)
+sents_web =[]
+treebank_web = open('web_fiction.txt', 'r', encoding='utf-8')
+for line in treebank_web.readlines():
+    line = line.strip('\n')
+    sents_web.append(line)
 data_web = ddp.parse(sents_web)
 
-build_conllx(data_web, 'treebank_web.conllx')
-treebank_news = open('news.txt', 'r', encoding='utf-8').read()
-sents_news = cut_sent(treebank_news)
-data_news = ddp.parse(sents_news)
+# Define a function to find whether the root of the sentence has a subject
+def get_sub(dic_list):
+    count =0
+    head_num=[]
+    for word in dic_list:
+        root_id = int(list(word['deprel']).index('HED'))+1
+        if 'SBV' in list(word['deprel']):
+            subj_index = [list(word['head'])[index] for index, element in enumerate(list(word['deprel'])) if element == 'SBV']
+            for i in subj_index:
+                head_num.append(list(word['head'])[i])
+            if root_id in head_num:
+                count+=1
+    return count
 
 
-treebank_news_1950 = open('news_1950.txt', 'r', encoding='utf-8').read()
-sents_news_1950 = cut_sent(treebank_news_1950)
-data_news_1950 = ddp.parse(sents_news_1950)
-
-treebank_news_1966 = open('news_1966.txt', 'r', encoding='utf-8').read()
-sents_news_1966 = cut_sent(treebank_news_1966)
-data_news_1966 = ddp.parse(sents_news_1966)
-
-treebank_news_1978 = open('news_1978.txt', 'r', encoding='utf-8').read()
-sents_news_1978 = cut_sent(treebank_news_1978)
-data_news_1978 = ddp.parse(sents_news_1978)
-
-treebank_lit_1950 = open('literature_1950.txt', 'r', encoding='utf-8').read()
-sents_lit_1950= cut_sent(treebank_lit_1950)
-data_lit_1950 = ddp.parse(sents_lit_1950)
-
-treebank_lit_1966 = open('literature_1966.txt', 'r', encoding='utf-8').read()
-sents_lit_1966= cut_sent(treebank_lit_1966)
-data_lit_1966 = ddp.parse(sents_lit_1966)
-
-treebank_lit_1978 = open('literature_1978.txt', 'r', encoding='utf-8').read()
-sents_lit_1978= cut_sent(treebank_lit_1978)
-data_lit_1978 = ddp.parse(sents_lit_1978)
-
-treebank_lit_00 = open('literature_00.txt', 'r', encoding='utf-8').read()
-sents_lit_00= cut_sent(treebank_lit_00)
-data_lit_00 = ddp.parse(sents_lit_00)
-# How many sentences in various copora
-print('There are ', len(sents_1950), ' sentences in the corpus 1950-1965.')
-print('There are ', len(sents_1966), ' sentences in the corpus 1966-1977.')
-print('There are ', len(sents_1978), ' sentences in the corpus 1978-1999.')
-print('There are ', len(sents_2000), ' sentences in the corpus 2000-2010.')
-print('There are ', len(sents_1950+sents_1966+sents_1978+sents_2000), ' sentences in the whole corpus.')
 
 # How many types in various copora
 print('There are ', count_type(data_1950), ' types in the corpus 1950-1965.')
@@ -87,35 +60,34 @@ print('There are ', count_type(data_1966), ' types in the corpus 1966-1977.')
 print('There are ', count_type(data_1978), ' types in the corpus 1978-1999.')
 print('There are ', count_type(data_2000), ' types in the corpus 2000-2010.')
 print('There are ', count_type(data_1950+data_1966+data_1978+data_2000), ' types in the whole corpus.')
-# conclusion 1
+
+# conclusion 1: how many modifiers in each sentence on average in different corpora
 print('There are ', count_rel(data_1950, 'deprel', 'ATT'),  'modifiers in one sentence on average (1950-1965).')
 print('There are ', count_rel(data_1966, 'deprel', 'ATT'),  'modifiers in one sentence on average (1966-1977).')
 print('There are ', count_rel(data_1978, 'deprel', 'ATT'),  'modifiers in one sentence on average (1978-1999).')
 print('There are ', count_rel(data_2000, 'deprel', 'ATT'),  'modifiers in one sentence on average (2000-2010).')
 
-# conclusion 2
+# conclusion 2: how many subjects in each sentence on average in different corpora
 print('There are ', count_rel(data_1950, 'deprel', 'SBV'),  'subjects in one sentence on average (1950-1965).')
 print('There are ', count_rel(data_1966, 'deprel', 'SBV'),  'subjects in one sentence on average (1966-1977).')
 print('There are ', count_rel(data_1978, 'deprel', 'SBV'),  'subjects in one sentence on average (1978-1999).')
 print('There are ', count_rel(data_2000, 'deprel', 'SBV'),  'subjects in one sentence on average (2000-2010).')
-print('There are ', count_rel(data_web, 'deprel', 'SBV'),  'subjects in one sentence on average (web).')
-print('There are ', count_rel(data_news_1950, 'deprel', 'SBV'),  'subjects in one sentence on average.')
-print('There are ', count_rel(data_news_1966, 'deprel', 'SBV'),  'subjects in one sentence on average.')
-print('There are ', count_rel(data_news_1978, 'deprel', 'SBV'),  'subjects in one sentence on average.')
-print('There are ', count_rel(data_news, 'deprel', 'SBV'),  'subjects in one sentence on average.')
-print('There are ', count_rel(data_news, 'deprel', 'SBV'),  'subjects in one sentence on average.')
-print('There are ', count_rel(data_lit_1950, 'deprel', 'SBV'),  'subjects in one sentence on average.')
-print('There are ', count_rel(data_lit_1966, 'deprel', 'SBV'),  'subjects in one sentence on average.')
-print('There are ', count_rel(data_lit_1978, 'deprel', 'SBV'),  'subjects in one sentence on average.')
-print('There are ', count_rel(data_lit_00, 'deprel', 'SBV'),  'subjects in one sentence on average.')
 
-# conclusion 3
+# conclusion 3 the average length of sentences in different corpora
 print('There are', format(characterlen(sents_1950)/len(sents_1950), '.2f'), 'characters in one sentence on average (1950-1965).')
 print('There are', format(characterlen(sents_1966)/len(sents_1966), '.2f'), 'characters in one sentence on average (1966-1977).')
 print('There are', format(characterlen(sents_1978)/len(sents_1978), '.2f'), 'characters in one sentence on average (1978-1999).')
 print('There are', format(characterlen(sents_2000)/len(sents_2000), '.2f'), 'characters in one sentence on average (2000-2010).')
 
-print('There are', format(characterlen(sents_news_1950)/len(sents_news_1950), '.2f'), 'characters in one sentence on average (news 1950-1965).')
-print('There are', format(characterlen(sents_news_1966)/len(sents_news_1966), '.2f'), 'characters in one sentence on average (news 1966-1976).')
-print('There are', format(characterlen(sents_news_1978)/len(sents_news_1978), '.2f'), 'characters in one sentence on average (news 1978-1999).')
-print('There are', format(characterlen(sents_news)/len(sents_news), '.2f'), 'characters in one sentence on average (news 2000-2010).')
+# conclusion 4 the number of subjects attached to the root in each sentence on average in different corpora
+print('There are', str(get_sub(data_1950)/len(sents_1950)), 'SUBJ in each sentence on average in the corpus 1950-1965.')
+print('There are', str(get_sub(data_1966)/len(sents_1966)), 'SUBJ in each sentence on average in the corpus 1966-19676.')
+print('There are', str(get_sub(data_1978)/len(sents_1978)), 'SUBJ in each sentence on average in the corpus 1977-1999.')
+print('There are', str(get_sub(data_2000)/len(sents_2000)), 'SUBJ in each sentence on average in the corpus 2000-2010.')
+print('There are', str(get_sub(data_web)/len(data_web)), 'SUBJ in each sentence on average in the web fiction category of the corpus 2000-2010.')
+
+# supplementary conclusions
+# the average length of sentences of the internet fictions
+print('There are', format(characterlen(sents_web)/len(sents_web), '.2f'), 'characters in one sentence on average (2000-2010).')
+# the average number of attributes of sentences of the internet fictions
+print('There are ', count_rel(data_web, 'deprel', 'ATT'), 'attributes in one sentence on average(web).')
