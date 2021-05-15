@@ -3,7 +3,7 @@
 1	深化	VERB	ROOT	深化	0
 2	改革	NOUN	dobj	深化	0
 3	，	PUNCT	punct	深化	0
-4	健全	ADV	advmod	符合	4
+4	健全	VERB	advmod	符合	4
 5	符合	VERB	conj	深化	0
 6	国际	NOUN	compound:nn	规则	7
 7	通行	NOUN	compound:nn	规则	7
@@ -125,11 +125,11 @@
 
 
 1	到	VERB	conj	当	2
-2	顺治	ADJ	advmod	一朝	2
+2	顺治	PROPN	nmod	一朝	2
 3	一朝	NOUN	nmod:prep	到	18
 4	，	PUNCT	punct	到	2
-5	满族	ADV	advmod	掌握	7
-6	彻底	VERB	advmod:dvp	掌握	7
+5	满族	NOUN	nsubj	掌握	7
+6	彻底	ADV	advmod:dvp	掌握	7
 7	地	PART	mark	彻底	5
 8	掌握	VERB	conj	当	2
 9	了	PART	aux:asp	掌握	7
@@ -140,14 +140,14 @@
 14	北京	PROPN	nmod:prep	定都	14
 15	定都	VERB	conj	掌握	7
 16	，	PUNCT	punct	一朝	2
-17	顺治	ADV	advmod	当	18
+17	顺治	PROPN	nsubj	当	18
 18	就	ADV	advmod	当	18
 19	当	VERB	ROOT	当	18
 20	了	PART	aux:asp	当	18
-21	一个	NOUN	advmod	名副其实	21
-22	名副其实	VERB	amod	皇帝	23
+21	一个	NOUN	clf	名副其实	21
+22	名副其实	ADJ	amod	皇帝	23
 23	的	PART	mark	名副其实	21
-24	统一	NOUN	amod	中国	27
+24	统一	ADJ	amod	中国	27
 25	的	PART	mark	统一	23
 26	中国	PROPN	nmod:assmod	皇帝	27
 27	的	PART	case	中国	25
@@ -159,7 +159,7 @@
 2	啊	PART	dep	文绉	6
 3	，	PUNCT	punct	文绉	6
 4	竟然	ADV	advmod	文绉	6
-5	文绉	NOUN	ROOT	文绉	5
+5	文绉	VERB	ROOT	文绉	5
 6	绉	VERB	dep	文绉	6
 7	起来	VERB	advmod	文绉	6
 8	了	PART	aux:asp	文绉	6
@@ -194,7 +194,7 @@
 23	说	VERB	conj	回答	12
 24	”	PUNCT	punct	说	22
 25	，	PUNCT	punct	回答	12
-26	结果	ADV	nsubj	是	27
+26	结果	NOUN	nsubj	是	27
 27	总是	ADV	cop	知道	27
 28	让	VERB	ccomp	总是  12
 29	她	PRON	dobj	让	27
@@ -256,7 +256,7 @@
 34	干警	NOUN	advmod:loc	包括	31
 35	在内	PART	case	包括	31
 36	的	PART	mark	包括	31
-37	违法	ADJ	amod	违纪	37
+37	违法	VERB	amod	违纪	37
 38	违纪	VERB	acl	人员	42
 39	的	PART	mark	违纪	37
 40	国家	NOUN	compound:nn	机关	42
@@ -313,26 +313,26 @@
 17	卧一阵	NOUN	dep	没有	0
 18	,	PUNCT	punct	卧一阵	16
 19	鞋	NOUN	nsubj	窝	22
-20	就是	ADV	cop	窝	22
+20	就是	AUX	cop	窝	22
 21	它们	PRON	nmod:assmod	窝	22
 22	的	PART	case	它们	20
 23	窝	NOUN	dep	没有	22
 24	,	PUNCT	punct	成	26
 25	按	ADP	case	它们	25
-26	它们	PRON	nmod:prep	成	26
+26	它们	PRON	obj	成	26
 27	成	VERB	conj	没有	22
 28	了	PART	aux:asp	成	26
 29	型	NOUN	dobj	成	26
 30	,	PUNCT	punct	成	26
-31	凹	ADJ	nmod:assmod	凸	32
+31	凹	ADJ	dep	按	32
 32	的	PART	case	凹	30
-33	凸	NOUN	dobj	成	26
+33	凸	NOUN	coo	凹	26
 34	的	PART	discourse	成	26
 35	,	PUNCT	punct	没有	22
 36	哪里	PRON	nsubj	低	36
 37	低	VERB	dep	高	38
 38	哪里	PRON	nsubj	高	38
-39	高	VERB	ROOT	高	38
+39	高	VERB	dep	成	38
 40	,	PUNCT	punct	高	38
 41	内八	NOUN	compound:nn	字外	41
 42	字外	NOUN	compound:nn	八字	42
@@ -411,7 +411,7 @@
 3	后	PART	case	走近	1
 4	，	PUNCT	punct	知道	5
 5	安倍少	PROPN	nsubj	知道	5
-6	佐	VERB	conj	少佐	5
+6	佐	NOUN	conj	少佐	5
 7	知道	VERB	ROOT	知道	5
 8	这	DET	det	玩意儿	8
 9	玩意儿	NOUN	nsubj	无关	12
@@ -440,7 +440,7 @@
 32	几	NUM	nummod	符号	37
 33	个	NUM	mark:clf	几	31
 34	很	ADV	advmod	像	34
-35	像	ADP	case	汉字	35
+35	像	VERB	case	汉字	35
 36	汉字	PROPN	nmod	符号	37
 37	的	PART	case	汉字	35
 38	符号	NOUN	dobj	有	30
@@ -462,7 +462,7 @@
 
 1	张俭	PROPN	conj	小环	2
 2	和	CCONJ	cc	小环	2
-3	小环	NOUN	nsubj	认为	3
+3	小环	PROPN	nsubj	认为	3
 4	认为	VERB	ROOT	认为	3
 5	那	PRON	nsubj	脏字	8
 6	一定	ADV	advmod	脏字	8
@@ -500,7 +500,7 @@
 13	”	PUNCT	punct	芳魂	11
 14	是	VERB	cop	归于	21
 15	“	PUNCT	punct	荡悠悠	15
-16	荡悠悠	NOUN	dep	地	17
+16	荡悠悠	ADV	dep	地	17
 17	”	PUNCT	punct	荡悠悠	15
 18	地	NOUN	dep	是	13
 19	、	PUNCT	punct	归于	21
@@ -510,7 +510,7 @@
 23	消失	VERB	compound:vc	归于	21
 24	，	PUNCT	punct	归于	21
 25	非常	ADV	advmod	悲惨	25
-26	悲惨	VERB	conj	归于	21
+26	悲惨	ADJ	conj	归于	21
 27	，	PUNCT	punct	痛苦	6
 28	她	PRON	nmod:assmod	死相	29
 29	的	PART	case	她	27
@@ -573,7 +573,7 @@
 19	又	ADV	advmod	尖厉	19
 20	尖厉	ADJ	acl	口哨	26
 21	又	CCONJ	advmod	婉转	21
-22	婉转	VERB	conj	尖厉	19
+22	婉转	ADJ	conj	尖厉	19
 23	、	PUNCT	punct	尖厉	19
 24	坏	ADV	conj	尖厉	19
 25	到家	VERB	dep	坏	25
@@ -601,7 +601,7 @@
 17	和	CCONJ	cc	费用	18
 18	医疗	NOUN	compound:nn	费用	18
 19	费用	NOUN	nmod:prep	适应	21
-20	需要	VERB	xcomp	适应	21
+20	需要	NOUN	xcomp	适应	21
 21	相	ADV	advmod	适应	21
 22	适应	VERB	ROOT	适应	21
 23	，	PUNCT	punct	适应	21
@@ -619,7 +619,7 @@
 35	缴费	NOUN	conj	结合	45
 36	、	PUNCT	punct	缴费	34
 37	集体	NOUN	nsubj	扶持	37
-38	扶持	VERB	acl	结合	45
+38	扶持	NOUN	acl	结合	45
 39	和	CCONJ	cc	资助	40
 40	政府	NOUN	compound:nn	资助	40
 41	资助	NOUN	nsubj	结合	42
@@ -632,7 +632,7 @@
 
 
 1	加强	VERB	ROOT	加强	0
-2	普法	ADJ	acl	教育	3
+2	普法	NOUN	acl	教育	3
 3	宣传	NOUN	compound:nn	教育	3
 4	教育	NOUN	dobj	加强	0
 5	。	PUNCT	punct	加强	0
@@ -663,7 +663,7 @@
 23	看	VERB	conj	登录	17
 24	账号	NOUN	nsubj	记不起	25
 25	已经	ADV	advmod	记不起	25
-26	记不起	NOUN	ccomp	看	22
+26	记不起	VERB	ccomp	看	22
 27	真名	NOUN	compound:vc	记不起	25
 28	，	PUNCT	punct	登录	17
 29	请问	VERB	conj	登录	17
@@ -689,7 +689,7 @@
 14	，	PUNCT	punct	增强	3
 15	以	PART	case	斗志	18
 16	更加	ADV	advmod	昂扬	16
-17	昂扬	VERB	amod	斗志	18
+17	昂扬	ADJ	amod	斗志	18
 18	的	PART	case	昂扬	16
 19	斗志	NOUN	dobj	增强	3
 20	，	PUNCT	punct	增强	3
@@ -701,7 +701,7 @@
 26	状态	NOUN	dobj	以	3
 27	，	PUNCT	punct	增强	3
 28	更加	ADV	advmod	扎实	28
-29	扎实	VERB	amod	作风	31
+29	扎实	ADJ	amod	作风	31
 30	的	PART	mark	扎实	28
 31	工作	NOUN	compound:nn	作风	31
 32	作风	NOUN	dobj	以	3
@@ -757,7 +757,7 @@
 1	一个	NOUN	amod	预兆	1
 2	对	ADP	case	诺基亚	2
 3	诺基亚	PROPN	nmod:prep	不祥	3
-4	不祥	VERB	amod	预兆	5
+4	不祥	ADJ	amod	预兆	5
 5	的	PART	dep	预兆	5
 6	预兆	NOUN	nsubj	开发	11
 7	是	VERB	cop	开发	11
@@ -797,7 +797,7 @@
 8	中国	PROPN	nmod:assmod	现状	9
 9	的	PART	case	中国	7
 10	现状	NOUN	nsubj	奇怪	12
-11	就是	ADV	advmod	奇怪	12
+11	就是	VERB	advmod	奇怪	12
 12	那么	ADV	advmod	奇怪	12
 13	奇怪	VERB	conj	成摇	1
 14	，	PUNCT	punct	奇怪	12
@@ -842,26 +842,26 @@
 10	，	PUNCT	punct	开展	6
 11	努力	ADV	advmod	争取	11
 12	争取	VERB	conj	开展	6
-13	和平	NOUN	compound:nn	环境	34
-14	稳定	VERB	compound:vc	和平	12
+13	和平	ADJ	compound:nn	环境	34
+14	稳定	ADJ	compound:vc	和平	12
 15	的	PART	mark	和平	12
 16	国际	NOUN	compound:nn	环境	16
 17	环境	NOUN	conj	环境	34
 18	、	PUNCT	punct	环境	34
-19	睦邻	VERB	amod	环境	22
-20	友好	VERB	compound:vc	睦邻	18
+19	睦邻	ADJ	amod	环境	22
+20	友好	ADJ	compound:vc	睦邻	18
 21	的	PART	mark	睦邻	18
 22	周边	NOUN	compound:nn	环境	22
 23	环境	NOUN	conj	环境	34
 24	、	PUNCT	punct	环境	34
-25	平等	VERB	advmod	互利	25
-26	互利	VERB	acl	环境	34
+25	平等	ADJ	advmod	互利	25
+26	互利	ADJ	acl	环境	34
 27	的	PART	mark	互利	25
 28	合作	NOUN	compound:nn	环境	28
 29	环境	NOUN	conj	环境	34
 30	和	CCONJ	cc	环境	34
-31	客观	ADV	advmod	友善	31
-32	友善	VERB	amod	环境	34
+31	客观	ADJ	advmod	友善	31
+32	友善	ADJ	amod	环境	34
 33	的	PART	mark	友善	31
 34	舆论	NOUN	compound:nn	环境	34
 35	环境	NOUN	dobj	争取	11
@@ -982,12 +982,12 @@
 30	，	PUNCT	punct	叫做	5
 31	一个	NOUN	advmod	是	31
 32	是	VERB	cop	尤	32
-33	尤	DET	conj	叫做	5
+33	尤	PROPN	conj	叫做	5
 34	二姐	NOUN	conj	，	34
 35	，	PUNCT	punct	就是	36
 36	一个	NOUN	advmod	就是	36
 37	就是	ADV	advmod	尤	37
-38	尤	DET	conj	叫做	5
+38	尤	PROPN	conj	叫做	5
 39	三姐	NOUN	conj	尤	37
 40	。	PUNCT	punct	叫做	5
 
@@ -1054,7 +1054,7 @@
 10	拉直	VERB	ROOT	拉直	9
 11	，	PUNCT	punct	拉直	9
 12	一个	NOUN	amod	燕似	12
-13	燕似	NOUN	amod	跃上	15
+13	燕似	ADJ	amod	跃上	15
 14	的	PART	case	燕似	12
 15	身影	NOUN	compound:nn	跃上	15
 16	跃上	VERB	nsubj	围墙	16
@@ -1071,7 +1071,7 @@
 7	家	NOUN	advcl:loc	住	7
 8	住	VERB	conj	问	2
 9	江南	PROPN	dobj	住	9
-10	姓	NOUN	conj	本秦	10
+10	姓	VERB	conj	本秦	10
 11	本秦	NOUN	dobj	住	7
 12	！	PUNCT	punct	问	2
 
@@ -1091,7 +1091,7 @@
 13	。	PUNCT	punct	争取	8
 
 
-1	所以	ADV	advmod	重在	20
+1	所以	SCONJ	advmod	重在	20
 2	，	PUNCT	punct	重在	20
 3	在	ADP	case	治疗	3
 4	治疗	NOUN	nmod:prep	反	20
@@ -1118,7 +1118,7 @@
 25	”	PUNCT	punct	病毒	23
 26	，	PUNCT	punct	清理	20
 27	调和	VERB	conj	清理	20
-28	五脏六腑	NUM	nummod	功能	30
+28	五脏六腑	NOUN	nummod	功能	30
 29	的	PART	case	五脏六腑	27
 30	生理	NOUN	compound:nn	功能	30
 31	功能	NOUN	dobj	调和	26
@@ -1201,7 +1201,7 @@
 47	的	PART	case	宋翊	45
 48	身体	NOUN	nsubj	停止	56
 49	却	ADV	advmod	停止	56
-50	不可思议	VERB	advmod:dvp	停止	56
+50	不可思议	ADV	advmod:dvp	停止	56
 51	地	PART	mark	不可思议	49
 52	在	ADP	case	运动	53
 53	高速	ADJ	amod	运动	53
@@ -1233,7 +1233,7 @@
 79	瞬间	NOUN	dep	他	73
 80	，	PUNCT	punct	瞬间	78
 81	右手	NOUN	compound:nn	外翻	81
-82	外翻	NOUN	conj	翘	2
+82	外翻	VERB	conj	翘	2
 83	，	PUNCT	punct	翘	2
 84	一个	NOUN	advmod	弧线	84
 85	弧线	NOUN	conj	翘	2
@@ -1251,7 +1251,7 @@
 97	的	PART	case	他	95
 98	身体	NOUN	nsubj	高高	99
 99	原地	ADV	advmod	高高	99
-100	高高	VERB	conj	翘	2
+100	高高	ADV	conj	翘	2
 101	跃起	VERB	dobj	高高	99
 102	，	PUNCT	punct	翘	2
 103	身子	NOUN	nsubj	左倾	105
@@ -1371,7 +1371,7 @@
 40	，	PUNCT	punct	踢	43
 41	二	NUM	dep	人	41
 42	人	NOUN	nsubj	踢	43
-43	挺胸	ADV	advmod	踢	43
+43	挺胸	ADV	conj	踢	43
 44	踢	VERB	conj	拉喜儿	7
 45	腿	NOUN	dobj	踢	43
 46	，	PUNCT	punct	踢	43
@@ -1388,7 +1388,7 @@
 4	表明	VERB	ROOT	表明	3
 5	，	PUNCT	punct	表明	3
 6	“	PUNCT	punct	表明	3
-7	唐虞	PROPN	dep	”	8
+7	唐虞	PROPN	nmod	社会	8
 8	以上	PART	case	唐虞	6
 9	”	PUNCT	acl	社会	11
 10	的	PART	case	”	8
@@ -1396,7 +1396,7 @@
 12	社会	NOUN	nsubj	还	12
 13	还	ADV	advmod	好说	14
 14	不	ADV	neg	好说	14
-15	好说	VERB	advmod	，	15
+15	好说	VERB	ccomp	表明	15
 16	，	PUNCT	punct	受命	24
 17	夏	PROPN	conj	周	20
 18	、	PUNCT	punct	周	20
@@ -1406,32 +1406,32 @@
 22	的	PART	case	周	20
 23	“	PUNCT	punct	受命	24
 24	建国	NOUN	compound:nn	受命	24
-25	受命	NOUN	dep	”	25
+25	受命	NOUN	dep	统治	25
 26	”	PUNCT	acl	统治	28
-27	的	PART	mark	”	25
+27	的	PART	mark	受命	25
 28	建立	NOUN	compound:nn	统治	28
-29	统治	NOUN	dobj	表明	3
+29	统治	NOUN	nsubj	依赖	3
 30	，	PUNCT	punct	依赖	33
 31	则	ADV	advmod	依赖	33
 32	总是	ADV	advmod	依赖	33
-33	要	VERB	xcomp	依赖	33
-34	依赖	VERB	ccomp	表明	3
+33	要	VERB	xcomp	表明	33
+34	依赖	VERB	xcomp	要	3
 35	这些	DET	det	巫	36
 36	“	PUNCT	punct	巫	36
-37	巫	NOUN	dobj	依赖	33
+37	巫	NOUN	conj	尹	33
 38	”	PUNCT	punct	巫	36
 39	、	PUNCT	punct	巫	36
 40	“	PUNCT	punct	史	40
-41	史	NOUN	dep	巫	36
+41	史	NOUN	conj	尹	36
 42	”	PUNCT	punct	史	40
 43	、	PUNCT	punct	史	40
 44	“	PUNCT	punct	尹	44
 45	尹	PROPN	nsubj	编造	47
 46	”	PUNCT	punct	尹	44
 47	来	PART	aux:prtmod	编造	47
-48	编造	VERB	conj	依赖	33
+48	编造	VERB	conj	宣传	33
 49	、	PUNCT	punct	编造	47
-50	宣传	VERB	conj	编造	47
+50	宣传	VERB	conj	依赖	47
 51	本	DET	det	阶级	51
 52	阶级	NOUN	nmod:assmod	幻想	53
 53	的	PART	case	阶级	51
@@ -1443,7 +1443,7 @@
 59	。	PUNCT	punct	表明	3
 
 
-1	预料	ADJ	ROOT	预料	0
+1	预料	VERB	ROOT	预料	0
 2	议会	NOUN	nsubj	支持	4
 3	也	ADV	advmod	支持	4
 4	会	VERB	aux:modal	支持	4
@@ -1461,19 +1461,19 @@
 5	的	PART	case	中	2
 6	人士	NOUN	nsubj	写	7
 7	，	PUNCT	punct	人士	5
-8	写	VERB	ROOT	写	7
+8	写	VERB	nsubj	不如	7
 9	毛笔字	NOUN	dobj	写	7
 10	在	ADP	case	总体上	10
 11	总体上	ADV	nmod:prep	不如	11
-12	不如	VERB	ccomp	写	7
+12	不如	VERB	ROOT	不如	7
 13	前代	NOUN	dobj	不如	11
-14	。	PUNCT	punct	写	7
+14	。	PUNCT	punct	不如	7
 
 
 1	两	NUM	dep	人	1
 2	人	NOUN	nsubj	抬头	2
 3	抬头	VERB	ROOT	抬头	2
-4	青	NOUN	advmod	抬头	2
+4	青	VERB	advmod	抬头	2
 5	了	PART	dep 看	2
 6	看	VERB	conj	抬头	2
 7	，	PUNCT	punct	抬头	2
@@ -1513,15 +1513,15 @@
 2	说	VERB	ROOT	说	1
 3	，	PUNCT	punct	说	1
 4	陈慕华	PROPN	nsubj	调任	4
-5	调任	VERB	ccomp	说	1
-6	中国	PROPN	nmod:assmod	行长	8
+5	调任	VERB	relcl	一举	1
+6	中国	PROPN	nmod:assmod	人民	8
 7	人民	NOUN	compound:nn	银行	7
 8	银行	NOUN	compound:nn	行长	8
 9	行长	NOUN	dobj	调任	4
-10	一举	ADV	nsubj	提高	10
+10	一举	NOUN	nsubj	提高	10
 11	提高	VERB	conj	说	4
 12	了	PART	aux:asp	提高	10
-13	中国	PROPN	nmod:assmod	银行	14
+13	中国	PROPN	nmod:assmod	人民	14
 14	人民	NOUN	compound:nn	银行	14
 15	银行	NOUN	nmod:assmod	地位	16
 16	的	PART	case	银行	14
@@ -1540,7 +1540,7 @@
 9	介绍	VERB	ROOT	介绍	8
 10	了	PART	aux:asp	介绍	8
 11	中国	PROPN	nmod	形势	19
-12	当前	NOUN	nmod:tmod	稳定	12
+12	当前	NOUN	amod	形势	12
 13	稳定	VERB	amod	形势	19
 14	的	PART	mark	稳定	12
 15	政治	NOUN	conj	社会	18
@@ -1560,7 +1560,7 @@
 6	十二	NUM	nummod	决定	8
 7	届	NUM	mark:clf	十二	5
 8	三中全会	NUM	dep	决定	8
-9	决定	VERB	dep	第一	10
+9	决定	NOUN	dep	第一	10
 10	的	PART	mark	决定	8
 11	第一	NUM	ROOT	第一	10
 12	年	NUM	mark:clf	第一	10
@@ -1577,11 +1577,11 @@
 8	开幕	VERB	advcl:loc	科致	15
 9	之前	PART	case	开幕	7
 10	，	PUNCT	punct	联络	15
-11	人大	NOUN	compound:nn	办公室	12
+11	人大	NOUN	compound:nn	常委会	12
 12	常委会	NOUN	compound:nn	办公室	12
 13	办公室	NOUN	conj	代表	14
 14	和	CCONJ	cc	代表	14
-15	代表	NOUN	nsubj	科致	15
+15	代表	NOUN	nsubj	联络	15
 16	联络	NOUN	nsubj	科致	15
 17	科致	NOUN	ROOT	科致	17
 18	函	VERB	nmod	代表团	19
@@ -1594,9 +1594,9 @@
 25	代表	NOUN	dobj	发动	23
 26	广泛	ADJ	advmod	联系	26
 27	联系	NOUN	conj	发动	23
-28	选民	NOUN	dobj	科致	26
+28	选民	NOUN	dobj	联系	26
 29	，	PUNCT	punct	科致	15
-30	听取	VERB	conj	科致	15
+30	听取	VERB	conj	发动	15
 31	选民	NOUN	nmod:assmod	意见	34
 32	的	PART	case	选民	30
 33	呼声	NOUN	conj	意见	34
@@ -1624,12 +1624,12 @@
 17	有关	ADJ	amod	部门	17
 18	部门	NOUN	nsubj	制订	21
 19	从	ADP	case	出发	20
-20	实际	NOUN	advmod	出发	20
+20	实际	NOUN	dobj	出发	20
 21	出发	VERB	nmod:prep	制订	21
 22	制订	VERB	conj	列入	6
 23	出	VERB	advmod:rcomp	制订	21
 24	这个	DET	det	地区	24
-25	地区	NOUN	compound:nn	开发	26
+25	地区	NOUN	compound:nn	规划	26
 26	智力	NOUN	compound:nn	开发	26
 27	开发	NOUN	nmod:assmod	规划	30
 28	的	PART	case	开发	26
@@ -1640,13 +1640,13 @@
 33	并	ADV	advmod	拨出	35
 34	每年	ADV	advmod	拨出	35
 35	都	ADV	advmod	拨出	35
-36	拨出	VERB	conj	列入	6
+36	拨出	VERB	conj	制定	6
 37	二百五十万	NUM	nummod	资金	39
 38	元	NUM	mark:clf	二百五十万	36
 39	专项	ADJ	amod	资金	39
 40	资金	NOUN	dobj	拨出	35
 41	，	PUNCT	punct	列入	6
-42	保证	VERB	conj	列入	6
+42	保证	VERB	conj	制定	6
 43	这	DET	det	规划	44
 44	一	NUM	dep	这	42
 45	规划	NOUN	nmod:assmod	付诸实施	46
@@ -1657,16 +1657,16 @@
 
 1	这里	PRON	loc	采用	1
 2	采用	VERB	ROOT	采用	1
-3	低压	NOUN	amod	冷	3
-4	冷	VERB	amod	光源	4
+3	低压	NOUN	nmod	光源	3
+4	冷	ADJ	amod	光源	4
 5	光源	NOUN	dobj	采用	1
 6	，	PUNCT	punct	采用	1
 7	既	CCONJ	advmod	照明	7
 8	照明	VERB	conj	采用	1
 9	，	PUNCT	punct	采用	1
 10	又	ADV	advmod	防止	10
-11	防止	VERB	conj	采用	1
-12	辐射	NOUN	compound:nn	文物	12
+11	防止	VERB	conj	照明	1
+12	辐射	VERB	compound:nn	防止	12
 13	文物	NOUN	dobj	辐射	10
 14	。	PUNCT	punct	采用	1
 
@@ -1793,8 +1793,8 @@
 22	抗	VERB	nsubj	达	25
 23	１１００	NUM	nummod	高温	24
 24	度	NUM	mark:clf	１１００	22
-25	高温	NOUN	obj	达	25
-26	达	VERB	conj	承受	11
+25	高温	NOUN	obj	抗	25
+26	达	VERB	conj	抗	11
 27	３０	NUM	nmod:range	达	25
 28	分钟	NUM	mark:clf	３０	26
 29	，	PUNCT	punct	承受	11
@@ -1815,7 +1815,7 @@
 
 
 1	那时候	ADV	advmod	问	3
-2	白大省	NOUN	nsubj	问	3
+2	白大省	PROPN	nsubj	问	3
 3	经常	ADV	advmod	问	3
 4	问	VERB	ROOT	问	53
 5	我	PRON	dobj	问	3
@@ -1932,8 +1932,8 @@
 31	有	VERB	conj	向往	13
 32	一	NUM	nummod	大衣	37
 33	件	NUM	mark:clf	一	31
-34	质地	VERB	advmod	精良	34
-35	精良	NOUN	acl	大衣	37
+34	质地	NOUN	advmod	精良	34
+35	精良	ADJ	acl	大衣	37
 36	的	PART	mark	精良	34
 37	羊绒	NOUN	compound:nn	大衣	37
 38	大衣	NOUN	dobj	有	30
@@ -1947,7 +1947,7 @@
 46	能	VERB	aux:modal	安一	46
 47	安一	VERB	conj	好比	38
 48	只	ADV	advmod	转铃	48
-49	转铃	VERB	conj	安一	46
+49	转铃	NOUN	conj	安一	46
 50	，	PUNCT	punct	好比	51
 51	就	ADV	advmod	好比	51
 52	好比	ADP	dep	装	57
@@ -1985,7 +1985,7 @@
 17	真	ADV	advmod	想	17
 18	想	VERB	acl	事	21
 19	不	ADV	dep	想	17
-20	开	VERB	dep	想	17
+20	开	ADV	dep	想	17
 21	的	PART	mark	想	17
 22	事	NOUN	dobj	有	14
 23	。	PUNCT	punct	了解	1
@@ -2043,7 +2043,7 @@
 6	十	NUM	nummod	契阔心	7
 7	载	NUM	mark:clf	十	5
 8	契阔心	NOUN	nsubj	怅然	8
-9	怅然	NOUN	conj	晤叙	3
+9	怅然	ADJ	conj	晤叙	3
 10	。	PUNCT	punct	晤叙	3
 
 
@@ -2078,7 +2078,7 @@
 17	，	PUNCT	punct	复印	5
 18	希望	VERB	conj	复印	5
 19	有	VERB	ccomp	希望	17
-20	好的	VERB	advmod	医疗	20
+20	好的	ADJ	advmod	医疗	20
 21	医疗	NOUN	compound:nn	方案	21
 22	方案	NOUN	dobj	有	18
 23	。	PUNCT	punct	复印	5
@@ -2107,7 +2107,7 @@
 11	的	PART	discourse	恨	9
 12	，	PUNCT	punct	说到	6
 13	我	PRON	dep	还有	13
-14	还有	CCONJ	conj	说到	14
+14	还有	VERB	conj	说到	14
 15	最爱	ADJ	dep 还有	15
 16	的	PART	discourse	最爱	16
 17	，	PUNCT	ROOT	，	16
@@ -2163,12 +2163,12 @@
 8	各种	NOUN	advmod	毒虫	8
 9	毒虫	NOUN	dep	有些	2
 10	，	PUNCT	punct	毒虫	8
-11	掺和	NOUN	compound:nn	成粉	12
+11	掺和	VERB	compound:nn	成粉	12
 12	干制	VERB	amod	成粉	12
 13	成粉	NOUN	conj	毒虫	8
 14	，	PUNCT	punct	毒虫	8
-15	藏于	NOUN	conj	叫	15
-16	指甲	VERB	obj	藏于	15
+15	藏于	VERB	conj	叫	15
+16	指甲	NOUN	obj	藏于	15
 17	缝	NOUN	advmod:loc	指甲	15
 18	中	PART	case	缝	16
 19	，	PUNCT	punct	指甲	15
@@ -2195,8 +2195,8 @@
 2	数据	NOUN	nmod:topic	留	7
 3	你	PRON	nsubj	留	7
 4	都	ADV	advmod	留	7
-5	得	VERB	xcomp	留	7
-6	给	ADP	case	我	6
+5	得	ADP	xcomp	留	7
+6	给	VERB	case	我	6
 7	我	PRON	nmod:prep	留	7
 8	留	VERB	ROOT	留	10
 9	着	PART	aux:asp	留	7
@@ -2218,7 +2218,7 @@
 12	天空	NOUN	dobj	看到	8
 13	，	PUNCT	punct	看到	8
 14	因此	ADV	advmod	看到	17
-15	银河	NOUN	nsubj	看到	17
+15	银河	PROPN	nsubj	看到	17
 16	也	ADV	advmod	看到	17
 17	只能	ADV	advmod	看到	17
 18	看到	VERB	conj	看到	8
@@ -2283,7 +2283,7 @@
 5	大部分	NUM	dep	问题	5
 6	问题	NOUN	nmod:assmod	根源	7
 7	的	PART	case	问题	5
-8	根源	ADJ	compound:nn	所在	8
+8	根源	NOUN	compound:nn	所在	8
 9	所在	NOUN	dep	是	8
 10	，	PUNCT	punct	使	10
 11	使	VERB	conj	是	8
@@ -2464,7 +2464,7 @@
 12	的	PART	mark	死去	10
 13	司令	NOUN	nsubj	爬	16
 14	竟	ADV	advmod	爬	16
-15	慢慢	VERB	advmod:dvp	爬	16
+15	慢慢	ADV	advmod:dvp	爬	16
 16	地	PART	mark	慢慢	14
 17	爬	VERB	ROOT	爬	8
 18	起来	VERB	advmod:rcomp	爬	16
@@ -2489,7 +2489,7 @@
 37	抻	VERB	conj	爬	16
 38	展开	VERB	conj	抻	36
 39	，	PUNCT	punct	爬	16
-40	贴到	NOUN	conj	爬	16
+40	贴到	VERB	conj	爬	16
 41	伤口	NOUN	obj	贴到	39
 42	上	PART	case	伤口	40
 43	。	PUNCT	punct	爬	8
@@ -2513,7 +2513,7 @@
 16	。	PUNCT	punct	标准	3
 
 
-1	新	VERB	amod	拍摄	2
+1	新	ADJ	amod	拍摄	2
 2	的	PART	case	新	0
 3	拍摄	NOUN	nsubj	开始	6
 4	开始	VERB	conj	顺利	2
@@ -2602,20 +2602,20 @@
 
 1	何小勇	PROPN	nmod:assmod	女人	2
 2	的	PART	case	何小勇	0
-3	女人	NOUN	compound:nn	身体	3
-4	身体	NOUN	nsubj	一	5
+3	女人	NOUN	nsubj	沉	3
+4	身体	NOUN	nsubj	沉	5
 5	往下	ADV	advmod	一	5
 6	一	ADV	advmod	沉	6
 7	沉	VERB	ROOT	沉	6
 8	，	PUNCT	punct	扑通	8
-9	扑通	VERB	conj	沉	6
+9	扑通	VERB	advmod	跪	6
 10	一下	ADV	advmod	扑通	8
-11	脆	ADV	advmod	在	11
-12	在	VERB	conj	扑通	8
+11	跪	VERB	conj	跪	11
+12	在	VERB	conj	跪	8
 13	了	PART	aux:asp	在	11
-14	你	PRON	compound:nn	面前	15
-15	玉兰	NOUN	compound:nn	面前	15
-16	面前	NOUN	dobj	在	11
+14	你	PRON	compound:nn	玉兰	15
+15	玉兰	NOUN	dobj	跪	15
+16	面前	NOUN	loc	跪	11
 17	，	PUNCT	punct	说	20
 18	她	PRON	nsubj	说	20
 19	对	ADP	case	许玉兰	19
@@ -2633,7 +2633,7 @@
 31	你	PRON	nmod:prep	丢人	32
 32	更	ADV	advmod	丢人	32
 33	丢人	VERB	conj	跪在	23
-34	现眼	VERB	dobj	丢人	32
+34	现眼	VERB	conj	丢人	32
 35	了	PART	discourse	丢人	32
 36	，	PUNCT	punct	跪在	23
 37	他们	PRON	nsubj	笑	39
@@ -2650,14 +2650,14 @@
 48	我	PRON	nsubj	跪	48
 49	跪	VERB	conj	跪在	23
 50	在	ADP	case	这里	50
-51	这里	PRON	nmod:prep	求	51
+51	这里	PRON	nmod:prep	跪	51
 52	求	VERB	ccomp	跪	48
 53	你	PRON	dobj	求	51
 54	了	PART	discourse	跪	48
 55	，	PUNCT	punct	跪在	23
 56	求	VERB	conj	跪在	23
 57	你	PRON	dobj	求	55
-58	去	VERB	xcomp	说	60
+58	去	VERB	xcomp	求	60
 59	对	ADP	case	一乐	59
 60	一乐	NOUN	nmod:prep	说	60
 61	说	VERB	ccomp	求	55
@@ -2743,7 +2743,7 @@
 13	，	PUNCT	punct	事儿	18
 14	都	ADV	advmod	事儿	18
 15	在	ADP	case	事儿	18
-16	议论著	NOUN	conj	事儿	18
+16	议论著	VERB	conj	事儿	18
 17	这	DET	det	事儿	18
 18	件	NUM	mark:clf	这	16
 19	事儿	NOUN	dobj	有	8
@@ -2763,7 +2763,7 @@
 10	你	PRON	compound:nn	家里人	10
 11	家里人	NOUN	dobj	找	8
 12	出来	VERB	compound:vc	干活儿	12
-13	干活儿	NOUN	conj	找	8
+13	干活儿	VERB	conj	找	8
 14	，	PUNCT	punct	找	8
 15	她	PRON	nsubj	说	15
 16	说	VERB	conj	找	8
@@ -2775,8 +2775,8 @@
 
 1	我们	PRON	nsubj	拥护党	3
 2	必须	VERB	aux:modal	拥护党	3
-3	坚决	VERB	advmod	拥护党	3
-4	拥护党	NOUN	acl	领导	6
+3	坚决	ADV	advmod	拥护党	3
+4	拥护党	VERB	acl	领导	6
 5	的	PART	case	拥护党	3
 6	一元化	NUM	amod	领导	6
 7	领导	NOUN	ROOT	领导	6
@@ -2805,7 +2805,7 @@
 13	多年	VERB	advmod	，	13
 14	，	PUNCT	punct	如今	14
 15	如今	NOUN	dep	还有	15
-16	还有	CCONJ	dep	人	16
+16	还有	ADV	dep	人	16
 17	人	NOUN	nsubj	闭	17
 18	闭	VERB	conj	鬼混	9
 19	着	PART	aux:asp	闭	17
@@ -2959,18 +2959,18 @@
 16	!	PUNCT	dep	好	18
 17	郭世富	PROPN	nsubj	好	18
 18	是	VERB	cop	人家	18
-19	好	VERB	dep	人家	21
+19	好	ADJ	dep	人家	21
 20	人家	PRON	dobj	说	18
 21	嘛	PART	discourse	好	18
 22	!	PUNCT	dep	说	23
-23	地	PART	dep	有	23
+23	地	NOUN	dep	有	23
 24	有	VERB	dep	人	26
 25	地	NOUN	dobj	有	23
 26	，	PUNCT	punct	人	26
 27	人	NOUN	nsubj	有人	27
 28	有人	VERB	advmod	；	28
 29	；	PUNCT	punct	马有马	29
-30	马有马	PROPN	conj	有	32
+30	马有马	VERB	conj	有	32
 31	，	PUNCT	punct	有	32
 32	车	NOUN	dep	有	32
 33	有	VERB	conj	有	32
@@ -3091,7 +3091,7 @@
 
 1	姚士杰	PROPN	nsubj	想	4
 2	很	ADV	advmod	满意	2
-3	满意	VERB	advmod:dvp	想	4
+3	满意	ADV	advmod:dvp	想	4
 4	地	PART	mark	满意	2
 5	想	VERB	ROOT	想	4
 6	着	PART	aux:asp	想	4
@@ -3141,7 +3141,7 @@
 9	自己	PRON	nmod	您	6
 10	去	VERB	xcomp	问	10
 11	问	VERB	ccomp	请	6
-12	蒋委员长	VERB	dobj	问	10
+12	蒋委员长	PROPN	dobj	问	10
 13	！	PUNCT	punct	有	0
 14	”	PUNCT	punct	有	0
 
@@ -3151,7 +3151,7 @@
 3	那面	NOUN	dep	高上	4
 4	，	PUNCT	punct	高上	4
 5	高上	PROPN	dep	桦树山林	12
-6	青天	VERB	nmod:assmod	桦树山林	7
+6	青天	NOUN	nmod:assmod	桦树山林	7
 7	的	PART	case	青天	5
 8	桦树山林	NOUN	nsubj	回声	12
 9	，	PUNCT	punct	回声	12
@@ -3284,7 +3284,7 @@
 15	帮助	VERB	conj	介绍	3
 16	我们	PRON	dobj	帮助	14
 17	进行	VERB	conj	帮助	14
-18	各项	NOUN	det	工作	19
+18	各项	DET	det	工作	19
 19	经济	NOUN	compound:nn	工作	19
 20	工作	NOUN	dobj	进行	16
 21	。	PUNCT	punct	介绍	3
@@ -3299,12 +3299,12 @@
 7	，	PUNCT	punct	进行	1
 8	我们	PRON	nsubj	要求	8
 9	要求	VERB	conj	进行	1
-10	一个	NOUN	advmod	和平	10
+10	一个	NUM	advmod	和平	10
 11	和平	NOUN	amod	环境	12
 12	的	PART	case	和平	10
 13	环境	NOUN	dobj	要求	8
 14	，	PUNCT	punct	进行	1
-15	一个	NOUN	advmod	和平	15
+15	一个	NUM	advmod	和平	15
 16	和平	ADJ	amod	世界	17
 17	的	PART	case	和平	15
 18	世界	NOUN	conj    环境	1
@@ -3312,7 +3312,7 @@
 
 
 1	她	PRON	nsubj	改霞	1
-2	改霞	VERB	nsubj	回来	1
+2	改霞	PROPN	nsubj	回来	1
 3	今日	NOUN	dobj	回来	1
 4	或	CCONJ	cc	回来	1
 5	明日	ADV	advmod	回来	5
@@ -3368,7 +3368,7 @@
 17	，	PUNCT	punct	慌做一团	5
 18	也	ADV	advmod	觉得	18
 19	觉得	VERB	conj	慌做一团	5
-20	轻飘飘	NOUN	dep	觉得	24
+20	轻飘飘	ADJ	dep	觉得	24
 21	的	PART	case	轻飘飘	19
 22	，	PUNCT	punct	抓住	24
 23	她	PRON	nsubj	抓住	24
@@ -3442,8 +3442,8 @@
 57	威风	VERB	nsubj	凛凛	11
 58	凛凛	VERB	dobj	走	56
 59	，	PUNCT	punct	走	11
-60	得	VERB	dep	走	62
-61	得	VERB	advmod:dvp	走	62
+60	得	ADV	dep	走	62
+61	得	ADV	advmod:dvp	走	62
 62	地	PART	mark	得	60
 63	走	VERB	conj	走	11
 64	了	PART	aux:asp	走	62
@@ -3501,7 +3501,7 @@
 42	则	ADV	advmod	希望	43
 43	不	ADV	neg	希望	43
 44	希望	VERB	conj	产生	28
-45	这样	VERB	ccomp	希望	43
+45	这样	ADV	ccomp	希望	43
 46	。	PUNCT	punct	说	3
 
 
@@ -3623,7 +3623,7 @@
 7	上	PART	case	背	5
 8	包袱	NOUN	nsubj	大	9
 9	太	ADV	advmod	大	9
-10	大	VERB	ccomp	看	3
+10	大	ADJ	ccomp	看	3
 11	了	PART	aux:asp	大	9
 12	一点	ADV	advmod	大	9
 13	,	PUNCT	punct	小	16
@@ -3752,7 +3752,7 @@
 
 1	小虎子	PROPN	nsubj	告诉	4
 2	还	ADV	advmod	告诉	4
-3	豪迈	VERB	advmod:dvp	告诉	4
+3	豪迈	ADV	advmod:dvp	告诉	4
 4	地	PART	mark	豪迈	2
 5	告诉	VERB	ROOT	告诉	4
 6	我	PRON	dobj	告诉	4
@@ -3784,7 +3784,7 @@
 32	船开	NOUN	dobj	使	27
 33	几万	NUM	nummod	哩	34
 34	公里	NUM	mark:clf	几万	32
-35	哩	NOUN	dobj	使	27
+35	哩	PART	dobj	使	27
 36	！	PUNCT	punct	告诉	4
 
 
