@@ -287,11 +287,11 @@ https://www.kanunu8.com/book3/7993/ 生活情趣 周作人 -1965
 
 Others
 https://www.xstt5.com/mingzhu/1454/ 茶馆 1955
-https://www.kanunu8.com/book3/8023/ 老舍自传
-https://www.kanunu8.com/book3/7991/ 文学评论
+https://www.kanunu8.com/book3/8023/ 老舍自传 -1965
+https://www.kanunu8.com/book3/7991/ 文学评论 -1965
 Sci-fi
 https://www.99csw.com/article/4680.htm From the Earth to the March 1950
-https://m.shutxt.com/kh/9338/526940.html 割掉鼻子的大象'''
+https://m.shutxt.com/kh/9338/526940.html 割掉鼻子的大象''' 1957
 
 # 创业史 1959
 lit_501 = comp_url(157696, 157748, 'https://www.qiyao5200.com/book/3/3192/', '.html')
