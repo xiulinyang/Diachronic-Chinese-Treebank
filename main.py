@@ -14,8 +14,8 @@ def cut_sent(text):
         sent = sents[2 * i] + sents[2 * i + 1]
         new_sents.append(sent)
     return new_sents
-'''（['\n', '。', '！', '？', '；', '：', ':', ' ', '……', ';', '（', '）']）、然后对于长度超过threshold的句子，把它们按照逗号切成尽量均匀、尽量少的分句；一些做得粗糙一点的就直接“ ？！。；”切开完事r了～'''
 
+# Define a function to count type
 def count_type(parsedsents):
     type_list =[]
     for sent in parsedsents:
