@@ -29,7 +29,7 @@
 “也想买点好吃的，可实际情况你们也知道，老百姓都撤退了，想给你们买也买不到哇！”	{'year': '1967', 'genre': 'press reportage', 'name': "People' Daily"}
 在越南是这样，在阿拉伯地区是这样，在世界上许多地区都是这样。	{'year': '1967', 'genre': 'press reportage', 'name': "People' Daily"}
 大家深深体会到，这是实行合作医疗、贯彻落实“预防为主”方针的结果。	{'year': '1968', 'genre': 'press reportage', 'name': "People' Daily"}
-南方军民发扬革命英雄主义，把军事、政治和兵运斗争紧密地结合起来，已经战胜了一百二十万敌军，其中包括五十多万美军；在城市和农村都取得了胜利，在敌军的基地、机场、港口、仓库、交通运输都打得好；又解放了许多居民稠密的辽阔地区，边战斗边建设，军事和政治力量都飞跃地壮大；战斗好，实现民族解放阵线的政策也好，部队全心全意地保卫和帮助人民，人民全心全意地爱护和帮助部队，同部队一起英勇杀敌。	{'year': '1968', 'genre': 'press reportage', 'name': "People' Daily"}
+南方军民发扬革命英雄主义，把军事、政治和兵运斗争紧密地结合起来，已经战胜了一百二十万敌军，其中包括五十多万美军；斗边建设，军事和政治力量都飞跃地壮大。	{'year': '1968', 'genre': 'press reportage', 'name': "People' Daily"}
 “是毛主席他老人家给了我第二次生命，要不是办合作医疗，我那里花得起这么多钱看病？	{'year': '1968', 'genre': 'press reportage', 'name': "People' Daily"}
 接着，解放军在二十七日上午又用重型武器击伤从西贡开往头顿的一艘载重五千吨的美国军用运输船，使这条船起火猛烈燃烧。	{'year': '1968', 'genre': 'press reportage', 'name': "People' Daily"}
 以前，医生为了看病学技术、增收入，对预防工作一向不关心；实行合作医疗以后，他们深深感到做好预防工作的重要性，积极带头，发动群众，开展“人民战争”，踏踏实实做好预防工作，增进社员健康。	{'year': '1968', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -62,7 +62,7 @@
 日本侵略势力已经打入亚洲广大地区，除了我国台湾省和南朝鲜，还打入了菲律宾、泰国、“马来西亚”、新加坡、印尼、南越、老挝、印度等国家和地区。	{'year': '1970', 'genre': 'press reportage', 'name': "People' Daily"}
 在日本统治集团看来，日本的经济力量已经大大膨胀，而日本的军事力量同经济力量还不相“适应”。	{'year': '1970', 'genre': 'press reportage', 'name': "People' Daily"}
 而这次会议刚一结束，他就立即从惠灵顿直接飞往美国，向美国国务卿罗杰斯汇报。	{'year': '1970', 'genre': 'press reportage', 'name': "People' Daily"}
-大隗大队依靠贫下中农管理财会工作后，通过从财会工作中反映出来的两个阶级、两条道路、两条路线的斗争，组织贫下中农狠批“物质刺激”，坚持无产阶级政治挂帅；狠批“自由经营”，坚持社会主义计划生产；狠批“分光吃光”，坚持正确处理国家、集体、个人三者之间关系；狠批摆阔气、讲排场的大少爷作风，坚持艰苦奋斗、勤俭办社的方针，克服了队里存在的一些生产没计划、成本不核算、收入不问来源、支出不看方向的现象，发展了农业生产，巩固了集体经济。	{'year': '1970', 'genre': 'press reportage', 'name': "People' Daily"}
+大隗大队依靠贫下中农管理财会工作后，通过从财会工作中反映出来的两个阶级、两条道路、两条路线的斗争，组织贫下中农狠批“物质刺激”，坚持无产阶级政治挂帅；狠批“自由经营”，坚持社会主义计划生产。	{'year': '1970', 'genre': 'press reportage', 'name': "People' Daily"}
 中曾根的这番话，是在向坚决反对美日反动派复活日本军国主义的中朝两国人民进行疯狂反扑，是日本军国主义蓄意与日本人民、朝鲜人民、中国人民、东南亚和亚洲各国人民为敌到底的自供状。	{'year': '1970', 'genre': 'press reportage', 'name': "People' Daily"}
 他们一再渲染日本已成为“自由世界”仅次于美国的所谓“大国”，一再叫嚷要发挥所谓大国的作用。	{'year': '1970', 'genre': 'press reportage', 'name': "People' Daily"}
 他的这番话，反映了日本反动统治集团对日本人民和亚洲人民日益高涨的反对美日反动派复活日本军国主义斗争的恐惧和不安；也反映了日本军国主义势力死心塌地跟随美帝疯狂向海外侵略扩张的急迫心情和更加凶恶的野心。	{'year': '1970', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -123,7 +123,6 @@
 他们不去看问题的本质方面，主流方面，而是强调那些非本质方面、非主流方面的东西。	{'year': '1976', 'genre': 'press reportage', 'name': "People' Daily"}
 实践证明，在大荣和恒元同志任一把手以来，我们下露河公社的工作不但没有退坡，而且比过去大有起色，这对大家的教育很大。	{'year': '1976', 'genre': 'press reportage', 'name': "People' Daily"}
 从此以后，冯文海时时刻刻警惕自己滋长特殊化思想。	{'year': '1976', 'genre': 'press reportage', 'name': "People' Daily"}
-乔冠华、李强、郭玉峰、傅传作、谢静宜、王六生、刘振华、向仲华、朱光亚、肖克、吴忠、杨贵、杨俊生、张国权、张积慧、宋时轮、胡炜、唐亮、钱学森、高淑兰、诸惠芬、康林、黄文明、黄作珍、崔修范、谢振华、裴周玉、张耀词、李敏、刘友法、鲁瑛、许健生、莫艾、解力夫、邓岗、李鑫、施义之、陈绍昆、李际泰、李成芳、边疆、汪洋、郭鲁、张劲夫、吴庆彤、张廷发、向守志、黄新廷、吴克华、周一良、魏建功、浩亮、刘庆棠、周培源、田富达、郑屏年、赖奎、宇光、邬吉成、陈树林、曹全夫、任新彦、李新荣、安莉、郭秀琴、杨杭州、陈国亮、马云香、单军、郑毅、李宝志、万其祥、姜金才、张荫华、张洪顺、白淑敏、张其通、丁建基、李金、徐庆文、韩兴连、张和、张秀兰、巩雪芹、刘晋华、张明朝、时述山、张桥松、刘铁成、朱毅鹏、侯亚平、李冬松、车风亭、孙惠香、张秀英、张淑琴、周德福、郎福田、肖洪斌、王信忠、张锡田、潘成礼、郭丽云、李振东、王圈、方成樑。	{'year': '1976', 'genre': 'press reportage', 'name': "People' Daily"}
 毛主席的教导，斗争的经验，使杨永海同志坚定了一个决心：	{'year': '1976', 'genre': 'press reportage', 'name': "People' Daily"}
 他滔滔不绝地谈的都是贫下中农抗震救灾的英雄事迹，唯独不谈他自己。	{'year': '1976', 'genre': 'press reportage', 'name': "People' Daily"}
 欢笑声中，父亲拿出一个红布包，把自己解放雷州时曾经带过的英雄花送给女儿，嘱咐她永远沿着毛主席指引的路走。	{'year': '1976', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -583,7 +582,7 @@
 “得设法找他们出来呀。”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “哼，我跟你们也不是一家子！	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 他把工作手续全部都交给了焦克礼；行李也打上了，干粮也包上了，连出门穿的衣服也换上了；这会儿，他到饲养场，跟他爸爸马老四告别来了。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
-这是他的革命思想启蒙课本，也是他这半辈，除了黄历接触到的第一本书，那是党员焦田，在北山坡子打柴禾的时候，亲手交给他的；从那以后，每天晚上，几个长工，几个贫农和几个村干部就凑到他这间小土屋里，点的也是这盏小小的省油灯；他们围在灯光下边，焦田给他们念，他们一句一句地听，一字一字地记，一点一滴地吸收和消化，又一条一条地用自己的行动去实现书本上边的要求。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
+这是他的革命思想启蒙课本，也是他这半辈，除了黄历接触到的第一本书，那是党员焦田，在北山坡子打柴禾的时候，亲手交给他的；从那以后，每天晚上，几个长工，几个贫农和几个村干部就凑到他这间小土屋里，点的也是这盏小小的省油灯。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 为了能够完成这件自己给自己的任务，他狠着心把焦克礼一个人扔在家里开那个社员会……	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 冲他这股子大公无私的精神，我就是养你白头到老，也心甘情愿。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 咱们先开个干部和社员代表会，让他检讨，他要低了头，就罢了，这是小干；要不低头，再开社员大会，让大伙儿评理，这就是大干。”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
@@ -957,7 +956,7 @@
 那边还在吵。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 今天他起的特别早，工作劲头也特别足。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 他听到萧长春又写了材料，又要打电话，心想；要是让他跑在前边，对自己是极为不利的，不能不过问。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
-被大车摇下来的麦秸子，有的零散在路上，被行人踩扁了，有的搭在豆角架和喇叭花秧子上，有的还挂在树枝上，摇摇摆摆；麦糠和灰尘掺在一块儿，在空中飞腾，落在一切可以着落的地方，那屋脊、墙头、青菜叶子，以及人们乘凉坐的石头上，没有一个地方不被罩上一层麦糠和麦鱼子，连那来往的行人身上、头上、眉毛上也不例外。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
+麦糠和灰尘掺在一块儿，在空中飞腾，落在一切可以着落的地方，那屋脊、墙头、青菜叶子，以及人们乘凉坐的石头上，没有一个地方不被罩上一层麦糠和麦鱼子，连那来往的行人身上、头上、眉毛上也不例外。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “对付几天算几天，哪天我死了，你再换人；就是让我管两天，也算我管了社会主义的事儿。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 马子怀的女人打开门。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “我把他托给德大妈了。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
@@ -990,7 +989,7 @@
 叙述了萧长春带领群众，反对土地分红的初步胜利；第二卷（第五十二至九十一章），讲述了斗争形势的进一步复杂，涉及全国反覆批斗争，又取得了进一步的胜利。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “我听这儿通通地打鼓嘛！”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 一句话，是他们要至死跟我们当敌人，逼着我们，非斗争不可呀！”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
-他总算咬着牙挺住了，像儿子那样挺住了；儿子那种大无畏的气魄，社员们那种火一般的情感，都在冲击着他的心；处处洋溢着的丰收喜悦和斗争热情，也在鼓舞着他的精神；经过了这场灾祸的考验，好像当年跟着担架队闯了一趟战火纷飞的疆场回来，他倒觉着自己比过去硬朗一些了。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
+他总算咬着牙挺住了，像儿子那样挺住了；经过了这场灾祸的考验，好像当年跟着担架队闯了一趟战火纷飞的疆场回来，他倒觉着自己比过去硬朗一些了。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “干什么？”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 对啦，这一次当机立断地下了决策，是非常及时又非常正确的，年轻的支部书记信心非常足！	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 他根本就没有把韩小乐放在眼里，焦淑红倒是一个敌手。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
@@ -1086,12 +1085,12 @@
 “你瞧瞧，这是啥时候，它偏偏闹病，这全是我的过失呀！”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 马子怀却从这微笑里得到了他想要得到的东西，身上来劲儿了，那杈子在他手上挥动得更快、更灵活。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 这里那里，不断地爆发着笑声。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
-往那铺着布垫的椅子上一坐，伸在桌子底下的两条腿，不住地抖动着打着点儿；一只胳膊肘拄着桌子，手托着腮帮子，另一只手悠然地拨拉着算盘珠儿；一会儿，又推开算盘，望着玻璃板底下压着的照片、纪念邮票出会儿神，在账本子上划两笔，一会儿，又离开座位，把耳机子套在头上，听一阵子音乐；一会儿，又提过暖壶，往那个花瓷的茶杯里兑一点开水，“滋咂”地喝了一口，心满意足地抹了抹嘴唇儿……	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
+往那铺着布垫的椅子上一坐，伸在桌子底下的两条腿，不住地抖动着打着点儿；一只胳膊肘拄着桌子，手托着腮帮子，另一只手悠然地拨拉着算盘珠儿……	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 马老四站在灯下、槽前，一只胳膊搂着病骡子的脖子，一只手轻轻地抚摸着病骡子的脑门儿；雨水像一条条珠子串似的，从檐头上垂落下来，在老人家的肩头上摔碎了，跌在脚下旋转的水涡里。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “不光是听，根据过去的情形看，也会是这个样子。”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 满山的绿色不止一回把他和穷哥儿们从春荒的死亡里拯救过来。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 她跑到沟北狮子院，找帮忙的人。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
-前些日子，阴险、狡猾的地主闺女马凤兰，在孙桂英的心里塞了一团“柴禾”，昨天在河边上的一片话，又像往这“柴禾”上浇了一桶子棉籽油；回到家，这条没有翅膀就飞到手里的毛巾，给这把“柴禾”加了热，烘干了，刚才她一番露骨的精神挑逗和引诱，像一根火柴似地把“柴禾”“腾”下子点着了。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
+前些日子，阴险、狡猾的地主闺女马凤兰，在孙桂英的心里塞了一团“柴禾”，昨天在河边上的一片话，又像往这“柴禾”上浇了一桶子棉籽油。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 平时他不大讲究穿戴，只是愿意骑好车子、使好笔，这是为了工作方便；另外，也喜欢吃一点可口的，这又为的身休健康──他的身体不算不健康，却又不断地闹点病，药瓶子、药包儿常年不离身，一年得有半年在家里休养。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 在东山坞这场剧烈、复杂的斗争波涛里，他那全身的精神力量又被大大地鼓动起来了。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 有一堆人谈着马立本下台、韩小乐接手当会计的事儿：	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
@@ -1203,7 +1202,7 @@
 “不是骂人，这头发又长又厚，好像毡子，我可从哪儿下刀子呀！”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 亲大伯快要死了，自己从小无依无靠，全是这个大伯抚养，就算是个地主吧，一般人情，人到临终还不记死仇哪。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “道满，起来呀！”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
-除了自己每时每刻都在战斗、保卫，都在增长本领之外，还要每时每刻注意克服自己应当克服的缺点；过去，她觉着自己一心一意地参加农村建设，已经满不错了，根本没有想到身上还有什么缺点，更没有想到，这些缺点在不知不觉地影响着自己在斗争里更快地提高和进步。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
+过去，她觉着自己一心一意地参加农村建设，已经满不错了，根本没有想到身上还有什么缺点，更没有想到，这些缺点在不知不觉地影响着自己在斗争里更快地提高和进步。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 她喊了一声：	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “百仲大叔说，麦熟一晌，昨天虽说都挨块看了，还要再看一遍。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 马立本见妈妈走出去了，两只手插在裤子兜里，在小院子里转开了圈儿。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
@@ -1248,7 +1247,7 @@
 就算焦二菊都难得跟他碰碰头儿了。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 投机倒把，是不符合政策条文的事情，弯弯绕那家伙能干这种傻事？	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 他便悄悄地退了出来，朝大庙那边摸着，心里想：	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
-她在屋地下转了个圈儿，也找不到什么事情要做，不由自主地把那条绿地儿、印着两枝梅花的手巾从柜子里掏出来，抖落开看看，又叠得平平整整压在枕头底下；又抽出来，团在两个手心里，胸口窝忍不住地跳动，左一声“唉”，右一声“唉”，像是遇见了发愁的事儿。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
+她在屋地下转了个圈儿，也找不到什么事情要做，不由自主地把那条绿地儿、印着两枝梅花的手巾从柜子里掏出来，抖落开看看，又叠得平平整整压在枕头底下。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “妈的，你这是对老人家说话哪？	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 敲门声把他从美妙的梦境里惊醒，正要发火，一听是韩百仲来了，才一翻身爬了起来，连忙不迭地打开了门。	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}
 “我说主任，多会儿下雨呀？”	{'time': '1966', 'genre': 'literature', 'category': 'general fiction'}

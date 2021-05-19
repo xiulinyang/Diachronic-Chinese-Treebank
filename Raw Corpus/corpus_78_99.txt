@@ -127,7 +127,7 @@
 全国和省、自治区、直辖市人民代表大会常务委员会根据本级人民检察院检察长的建议，可以撤换下级人民检察院检察长、副检察长和检察委员会委员。	{'year': '1979', 'genre': 'press reportage', 'name': "People' Daily"}
 这条街上确实居住着一些资本家，可是经过三十年来的学习改造，他们当中的绝大多数人都能遵守政府法令，积极劳动，已经成为自食其力的劳动者，有的人已成为街道生产和生活服务的积极分子。	{'year': '1979', 'genre': 'press reportage', 'name': "People' Daily"}
 去年，上海梅林食品厂将汽车装卸任务发包给专业服务队，节约压缩厂内用工一百二十多人。	{'year': '1979', 'genre': 'press reportage', 'name': "People' Daily"}
-通知要求各级党委和政治机关，要引导干部战士认清党的三中全会以来的大好形势，鼓舞斗志；认清我国国内的阶级状况和阶级斗争的特点以及我国现阶段的主要矛盾和无产阶级专政的目的，提高工作着重点转移的自觉性；认清调整国民经济的必要性和重要性，正确理解调整国民经济的方针、任务，切实执行党的各项经济政策和制度；认清加强社会主义民主和社会主义法制的重要性，坚决贯彻执行五届人大二次会议通过的各项法律，反对特权思想，做到人人奉公守法；认清霸权主义者在世界争夺越来越激烈的现实，提高警惕，加强战备，力争在三年内做好我军的调整、改革、整顿和提高的工作，消除林彪、“四人帮”的流毒和影响，进一步加强教育训练，改进党风、军风，增强军内外团结。	{'year': '1979', 'genre': 'press reportage', 'name': "People' Daily"}
+通知要求各级党委和政治机关，要引导干部战士认清霸权主义者在世界争夺越来越激烈的现实，提高警惕，加强战备，力争在三年内做好我军的调整、改革、整顿和提高的工作，消除林彪、“四人帮”的流毒和影响，进一步加强教育训练，改进党风、军风，增强军内外团结。	{'year': '1979', 'genre': 'press reportage', 'name': "People' Daily"}
 猎物可交餐厅加工归个人享用，也可结冻后带走，美丽的禽鸟可代为制成标本。	{'year': '1979', 'genre': 'press reportage', 'name': "People' Daily"}
 人民法院的任务是审判刑事案件和民事案件，并且通过审判活动，惩办一切犯罪分子，解决民事纠纷，以保卫无产阶级专政制度，维护社会主义法制和社会秩序，保护社会主义的全民所有的财产、劳动群众集体所有的财产，保护公民私人所有的合法财产，保护公民的人身权利、民主权利和其他权利，保障国家的社会主义革命和社会主义建设事业的顺利进行。	{'year': '1979', 'genre': 'press reportage', 'name': "People' Daily"}
 凡有骆驼刺和红柳丛的背风面，棉苗依然活着，凡是林带稠密的地方，庄稼依然丰收，原因是林、草挡住了流沙，阻拦了大风。	{'year': '1979', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -633,7 +633,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 承包企业发生亏损时，企业的责任是以风险基金承担承包定额和对外债务；承包经营者的责任是以个人抵押金承担违约责任。	{'year': '1990', 'genre': 'press reportage', 'name': "People' Daily"}
 他还说，科威特还将向因对伊拉克实行经济制裁而遭受损失的国家提供特殊援助。	{'year': '1990', 'genre': 'press reportage', 'name': "People' Daily"}
 １９８９年８月，经中国农科院棉花研究所和河北省农科院鉴定，认为已达到国际先进水平。	{'year': '1990', 'genre': 'press reportage', 'name': "People' Daily"}
-全村群众家家吃上了自来水；盖了一座容纳５０００人的露天剧场；建起全县第一家农村澡堂；建成全地区第一家农村幼儿园；建起一座高标准教学楼；安装了一部３００门全自动程控电话交换机；把村里１２条街道和４条出村要道全部铺成了水泥路面；近１０年没有向群众搞过任何摊派和集资……	{'year': '1990', 'genre': 'press reportage', 'name': "People' Daily"}
+全村群众家家吃上了自来水，把村里１２条街道和４条出村要道全部铺成了水泥路面……	{'year': '1990', 'genre': 'press reportage', 'name': "People' Daily"}
 山西临汾市蓄电池厂工人贾明山研制的仿古作品，经过特殊处理后，古朴典雅，深受国内外客商喜爱。	{'year': '1990', 'genre': 'press reportage', 'name': "People' Daily"}
 集团公司统一为各厂家组织原料，提供技术指导和推销产品，从而使这一传统产品的质量、数量大幅度提高，年出口达９０００多吨，创汇１３００余万美元，比过去成倍增长。	{'year': '1990', 'genre': 'press reportage', 'name': "People' Daily"}
 世界银行国际经济部２１日发表报告预测，如果中东爆发战争，１９９０—１９９１年内石油价格可能上涨到每桶６５美元。	{'year': '1990', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -646,7 +646,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 全民企业上项目要准备好几年，而在“联化”，新产品只要认准了就干。	{'year': '1991', 'genre': 'press reportage', 'name': "People' Daily"}
 经贸部新闻发言人刘向东今天就美国将我列为“特殊３０１条款”重点国家一事指出，中国在保护知识产权方面做出了巨大的努力，中美双方曾就这一问题进行过多次磋商，现美国单方面引用其贸易法对我施加压力，这是我们绝对不能接受的。	{'year': '1991', 'genre': 'press reportage', 'name': "People' Daily"}
 可以说，哪里冲破收入分配的平均主义，那里就会出现人才辈出的局面。	{'year': '1991', 'genre': 'press reportage', 'name': "People' Daily"}
-中国驻洛杉矶总领事馆转来华侨捐款１８．５万美元；中国驻尼日利亚使馆转来华侨捐款１０万美元；中国驻旧金山总领事馆转来华侨捐款１０万美元；美国熊猫汽车公司捐款１０万美元；英籍作家韩素音女士捐款２万瑞士法郎；日本株式会社测机舍捐赠两套红外测矩仪，价值１８０多万日元；东莞冠亚企业有限公司捐款５０万元；牙克石林业管理局又捐２９万多元；广州市农工商总公司捐款１１万多元；广西柳州市民政局转来两万多个体户捐款１５万多元；日本五和药品有限会社捐赠价值４３０多万日元的药品；中国驻菲律宾使馆转来华侨捐款８００万港元；墨西哥蒂华纳市侨胞和华人捐款已达６万多美元；北京师范大学教职员工捐款已达１１万多元；北京市残联书画会将义卖所得１７１７．９５元捐赠给灾区；山东汽车销售公司捐款１０万元；国家奥林匹克体育中心、北京青少年服务中心将争办２０００年奥运会活动的门票收入５万元捐献；三菱重工业株式会社北京事务所所长宫崎宏先生代表三菱重工业株式会社捐款１００万日元；日本参议院议员、体育和平党主席猪木宽至以个人名义捐款１００万日元。	{'year': '1991', 'genre': 'press reportage', 'name': "People' Daily"}
+国家奥林匹克体育中心、北京青少年服务中心将争办２０００年奥运会活动的门票收入５万元。	{'year': '1991', 'genre': 'press reportage', 'name': "People' Daily"}
 近年来，全县还新建冰厂８间，解决了蔬菜保鲜问题。	{'year': '1991', 'genre': 'press reportage', 'name': "People' Daily"}
 “马绍尔群岛共和国十分珍惜马、中两国之间业已存在的关系。”	{'year': '1991', 'genre': 'press reportage', 'name': "People' Daily"}
 本报讯地处淮河之畔的安徽省颍上县杨湖蒜薹产区，今年２．２万亩蒜薹又获大丰收，产量超过２０００万公斤。	{'year': '1991', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -751,7 +751,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 要明确，风险有多大，能带来多大效益，更要制定出克服风险的计划和措施。	{'year': '1993', 'genre': 'press reportage', 'name': "People' Daily"}
 随便把它们往灶孔里一塞，就燃烧成劈里啪啦的柴火，就煮熟有野兔香味的日子。	{'year': '1993', 'genre': 'press reportage', 'name': "People' Daily"}
 在会见中，武文杰表示，越南高度评价联合国组织同越南进行的多方面的合作，欢迎加利秘书长就双边合作问题同越南进一步交换意见，同时希望联合国为执行巴黎协定，建立一个和平、独立、中立、不结盟、与所有国家都友好的柬埔寨作出积极贡献。	{'year': '1993', 'genre': 'press reportage', 'name': "People' Daily"}
-该市市委常委在调查研究中发现这一潜在的危机后，把改造提高传统产业、培植新的经济增长点，作为实施科技兴市战略的主攻方向，重新研究制定了《关于奖励有贡献科技人员的暂行办法》及《关于鼓励从市外引进人才的若干政策意见》等５种更加符合实际的政策性条例，引导传统企业经营者巧用资源、活用人才，引进高新技术，提高产品的档次和科技的含量；同时根据企业需要组织“科技采购团”，让厂长经理们带着传统行业的“疑难杂症”，到科研机构、高等院校求教各类技术专家，采购科研成果。	{'year': '1993', 'genre': 'press reportage', 'name': "People' Daily"}
+该市市委常委在调查研究中发现这一潜在的危机后，把改造提高传统产业、培植新的经济增长点，作为实施科技兴市战略的主攻方向，重新研究制定了《关于奖励有贡献科技人员的暂行办法》及《关于鼓励从市外引进人才的若干政策意见》等５种更加符合实际的政策性条例，引导传统企业经营者巧用资源、活用人才，引进高新技术，提高产品的档次和科技的含量。	{'year': '1993', 'genre': 'press reportage', 'name': "People' Daily"}
 格尔木市还以整顿市场为重点，开展“打假治劣”专项斗争，依法整顿市场，维护消费者利益。	{'year': '1993', 'genre': 'press reportage', 'name': "People' Daily"}
 育英学校的教学改革，减轻了学生过重的课业负担，明显提高了主要文化学科的学习成绩，有效地培养了学生的个性特长，较好地保证了学生的全面发展，得到了有关部门的肯定和好评。	{'year': '1993', 'genre': 'press reportage', 'name': "People' Daily"}
 声明说，伊拉克准备根据安理会８３３号决议以积极的姿态解决关于承认科威特主权和重新划定的伊科边界问题。	{'year': '1994', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -763,7 +763,6 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 应该看到，在改革的道路上会遇到种种困难。	{'year': '1994', 'genre': 'press reportage', 'name': "People' Daily"}
 “困扰阿拉法特的主要问题是，他是否控制国际边界的问题。	{'year': '1994', 'genre': 'press reportage', 'name': "People' Daily"}
 李鹏在座谈会开始时说，社会治安是广大群众十分关注的一个问题，人们都希望有一个安定的工作和生活环境。	{'year': '1994', 'genre': 'press reportage', 'name': "People' Daily"}
-北京市丰台区卢沟桥乡副乡长孙佩然、北京市第７８中学校长沈恒恩、北京西单商场经理王全、北京奥克兰建筑防水材料公司党委书记郭仲山、北京市崇文区文化文物局党委书记欧阳二利、北京市公安局东城区北新桥派出所所长孙仿、北京市西城区展览路卯区居委会主任杨计生、武警北京总队第１４支队中队长李明生、北京王府饭店副总经理张少华、北京市丰台区人民检察院副检察长张克来、北京市海淀区人民法院院长左兵、北京市中级人民法院院长纪树翰、解放军总政治部保卫部保卫局局长张振华等。	{'year': '1994', 'genre': 'press reportage', 'name': "People' Daily"}
 他指出，做好这项工作，最根本的一条是，贯彻好专门工作与群众路线相结合的方针，充分调动广大人民群众和社会各方面和各有关部门的积极性，广泛地动员群众、组织群众积极参与综合治理，充分发挥各部门在维护社会稳定中的职能作用，体现齐抓共管的特点。	{'year': '1994', 'genre': 'press reportage', 'name': "People' Daily"}
 １９８１年，第一届国际轮椅马拉松邀请赛也是在大分县举行的。	{'year': '1994', 'genre': 'press reportage', 'name': "People' Daily"}
 外汇券风波只是外汇体制改革中泛起的一个小小泡沫，真正的反应还要看外汇市场。	{'year': '1994', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -904,7 +903,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 株洲市技改３年投入４０多亿元。	{'year': '1997', 'genre': 'press reportage', 'name': "People' Daily"}
 湖南电线电缆集团公司已于今年元月２５日正式挂牌成立，总资产达２１亿元、年销售突破２５亿元；湖南计算机有限公司，改制后资产和销售收入大大增加，汉字终端居全国领先水平，电子行业已成湖南支柱产业。	{'year': '1997', 'genre': 'press reportage', 'name': "People' Daily"}
 在产品陈列室中，我们看得眼花缭乱，大王子、小王子系列冰箱；无霜无氟节能冰箱；豪华型、普及型、经济型、模糊型各类洗衣机……	{'year': '1997', 'genre': 'press reportage', 'name': "People' Daily"}
-在商品大潮的冲击下，一些演出单位和个人为了追逐经济利益，迎合少数人的低级趣味，致使平庸、低俗甚至反动、淫秽的演出活动时有发生；有的单位不经批准，擅自组织营业性演出，破坏演出市场正常秩序；“走穴”现象严重，一些在职演员不经所在单位批准，私自参加组台演出，严重冲击所在单位正常的演出活动；少数演员偷税漏税；有的演出单位和个人不讲职业道德，一切向钱看，肆意索要高额出场费，甚至以假唱、假冒他人名义等手段弄虚作假、欺骗观众；演出合同不完备，导致演出活动中的经济纠纷日益增多，等等。	{'year': '1997', 'genre': 'press reportage', 'name': "People' Daily"}
+在商品大潮的冲击下，一些演出单位和个人为了追逐经济利益，迎合少数人的低级趣味，致使平庸、低俗甚至反动、淫秽的演出活动时有发生。	{'year': '1997', 'genre': 'press reportage', 'name': "People' Daily"}
 在中华民族园白塔前宽阔的傣族广场上，来自香港的各界青年国庆访京团成员与内地５６个民族的青年伴随着欢快的乐曲，载歌载舞，用青年人充满活力的方式共庆国庆佳节，表达包括香港青年在内的全国各族青年的爱国心、民族情。	{'year': '1997', 'genre': 'press reportage', 'name': "People' Daily"}
 不少人认为，只要煤价放开、提高，企业亏损就能解决。	{'year': '1997', 'genre': 'press reportage', 'name': "People' Daily"}
 煤炭行业困难较大，人员多，包袱重，劳动效率低，有客观环境的不利影响，但根本原因还是计划经济体制造成的弊端。	{'year': '1997', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -937,7 +936,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 财政部副部长张佑才今天在此间说，注册会计师行业是社会经济监督体系的重要组成部分，对于目前行业内存在的问题要进行彻底清理整顿，对那些规模小、短期内硬件难以达标的事务所要促使其联合、合并，对那些业务低下、违法违规违纪的事务所要进行严肃处理，该撤的坚决撤掉。	{'year': '1998', 'genre': 'press reportage', 'name': "People' Daily"}
 靠从德国引进技术起步的海尔集团，在引进、消化和吸收的同时，始终注重增强企业的技术创新能力，现在，海尔以平均1．5天研制一个新产品、平均每天诞生1．8个专利的速度，推动着企业高速发展。	{'year': '1998', 'genre': 'press reportage', 'name': "People' Daily"}
 从我国的基本国情出发，同时研究、学习国外培养高层次人才的经验，学位与研究生教育制度在我国经济建设和社会发展中发挥了巨大作用。	{'year': '1998', 'genre': 'press reportage', 'name': "People' Daily"}
-海洋水体质量呈下降趋势，有一半以上的近岸海水受到严重污染；近海污染范围不断扩大，在渤海、黄海、东海、南海4个海区油类污染都有不同程度的上升趋势，污染比较严重的海区范围也由80年代初的珠江口扩展到粤西、粤东、北部湾，甚至海南岛部分海区，其他海区污染比较严重的还有辽东湾北部、渤海湾西部和海口湾等地；陆源污染物排海问题相当突出，仅沿岸工厂和城市直接排海的污水每年就达100亿吨，主要有害有毒物质146万吨，对生态十分脆弱的近岸海域造成了巨大冲击；渤海污染日益突出，生态环境急剧恶化，渔业资源渐趋枯竭，拯救渤海已经到了刻不容缓的地步；海域污损事件频繁，赤潮、溢油、违章倾倒以及贝类传染病毒等污损事件发生频率越来越高，不仅对海洋环境和资源造成严重损害，对人体健康影响也构成威胁；海洋生态环境破坏严重，目前，一些地区还存在着不合理的盲目围海建设、大面积的挖沙采石、乱挖珊瑚礁、滥伐红树林等违法现象，严重破坏了我国的海洋自然景观和生态环境，造成了大范围的海岸侵蚀或淤积，损害了海洋生态系统，减少了物种的多样化，加剧了海洋灾害的危害。	{'year': '1998', 'genre': 'press reportage', 'name': "People' Daily"}
+海洋生态环境破坏严重，目前，一些地区还存在着不合理的盲目围海建设、大面积的挖沙采石、乱挖珊瑚礁、滥伐红树林等违法现象，严重破坏了我国的海洋自然景观和生态环境，造成了大范围的海岸侵蚀或淤积，损害了海洋生态系统，减少了物种的多样化，加剧了海洋灾害的危害。	{'year': '1998', 'genre': 'press reportage', 'name': "People' Daily"}
 赛后万达队主教练徐根宝对队员的表现并不十分满意，特别指出领先之后的松懈更是危险，不过毕竟得了冠军使他欣慰。	{'year': '1998', 'genre': 'press reportage', 'name': "People' Daily"}
 据贝利的经纪人赖恩介绍，贝利是在玩篮球前做热身运动时向后跑，但不慎失足弄伤了腿。	{'year': '1998', 'genre': 'press reportage', 'name': "People' Daily"}
 当具有30年教龄、来自许昌市后河镇第一初中的侯玉申老师从省人大常委会副主任、郑州大学教授袁祖亮手中接过1000元现金时，激动地说：	{'year': '1998', 'genre': 'press reportage', 'name': "People' Daily"}
@@ -1894,7 +1893,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 由于８党的野心和三位前首相的自负，在开始几天便出现了可能使理想胎死腹中的隐患。	{'year': '1994', 'genre': 'press reportage', 'name': 'Reference News'}
 它是一个旧式的社会党与亲工商界保守派的令人厌恶的联盟。	{'year': '1994', 'genre': 'press reportage', 'name': 'Reference News'}
 南方长达１０年的内战每天耗费国库１００万美元。	{'year': '1994', 'genre': 'press reportage', 'name': 'Reference News'}
-舒氏反对加入独联体国家集体安全条约，克氏则主张非加入不可，多数议员在这个问题上与克氏有共同语言；舒氏反对建立统一卢布区及与俄建立经济联盟（或称货币联盟），克氏则认为舍此别无它途，在此问题上许多议员与舒氏一个声音；舒氏还主张白俄罗斯宜保持“中立”与独立姿态，不应与俄等独联体各国有太多瓜葛；克氏则认为仅靠自身国力白俄罗斯难以摆脱目前经济危机，与这些国家加强联系有益无害。	{'year': '1994', 'genre': 'press reportage', 'name': 'Reference News'}
+舒氏反对加入独联体国家集体安全条约，克氏则主张非加入不可，多数议员在这个问题上与克氏有共同语言。	{'year': '1994', 'genre': 'press reportage', 'name': 'Reference News'}
 教育关于允许一些大学生通过服务支付学费的全国服务计划得到批准。	{'year': '1994', 'genre': 'press reportage', 'name': 'Reference News'}
 大阪是日本第二大城市，国内生产总值达４１１７亿美元，几乎与加拿大并驾齐驱。	{'year': '1994', 'genre': 'press reportage', 'name': 'Reference News'}
 这个奖杯从诞生之日起，不仅仅是参赛球队追逐的最大目标，而且是罪犯们垂涎的猎物。	{'year': '1994', 'genre': 'press reportage', 'name': 'Reference News'}
@@ -2068,7 +2067,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 绘画非常之美丽，可惜作者名气不大。	{'year': '1997', 'genre': 'press reportage', 'name': 'Reference News'}
 无法扶持中小企业；经济成长率已经是先进国家中最低的，官僚们缺乏改革的意愿和对时代的理解。	{'year': '1997', 'genre': 'press reportage', 'name': 'Reference News'}
 但自８０年代后半期开始，产业结构开始发生变化。	{'year': '1997', 'genre': 'press reportage', 'name': 'Reference News'}
-在书中，作者首先对日本目前的发展提出警告，他指出泡沫经济破灭后，金融机构背负着巨额的呆账，在国际金融市场上的竞争开始落后于新加坡和香港；人造卫星等尖端技术开发接二连三地失败；电子通信及影像科技也远远落后于欧美；物资流通、运输系统成本过高，各国航运、空运已尽量避开日本，改由韩国、台湾、香港来转运；政府财政赤字年年增加，一些不必要的公共建设却一意孤行；制造业纷纷往国外迁移，企业的投资与投资回报率年年下降；义务教育缺乏个性、校园暴力横行，高等教育因人的原因和种种规定而无法引进新的思维；企业经营者已习惯于官僚主导的协议制度，缺乏竞争的意愿；金融缺乏审查能力，只认土地和股票作担保。	{'year': '1997', 'genre': 'press reportage', 'name': 'Reference News'}
+在书中，作者首先对日本目前的发展提出警告，他指出泡沫经济破灭后，金融机构背负着巨额的呆账，在国际金融市场上的竞争开始落后于新加坡和香港。	{'year': '1997', 'genre': 'press reportage', 'name': 'Reference News'}
 新兴工业化经济地区的企业向亚洲转移，也给新兴工业化经济地区本身及周围地区带来了巨大的变化。	{'year': '1997', 'genre': 'press reportage', 'name': 'Reference News'}
 警方得到了报告，立即侦查，但到处都找不到那青铜脑袋。	{'year': '1997', 'genre': 'press reportage', 'name': 'Reference News'}
 她在回忆录中写道：	{'year': '1997', 'genre': 'press reportage', 'name': 'Reference News'}
@@ -2412,7 +2411,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 与此同时，三年来逐步扩大企业自主权，推行经济责任制，贯彻执行按劳分配的原则，并在国家计划指导下发挥市场调节的辅助作用。	{'time': '1981', 'genre': 'others', 'name': "Chinese government's report"}
 根据上述改革的基本方向，我们对改革的轮廓有如下一些设想：	{'time': '1981', 'genre': 'others', 'name': "Chinese government's report"}
 组织起来，加强协作，进行科学技术攻关。	{'time': '1981', 'genre': 'others', 'name': "Chinese government's report"}
-逐步实行政企分工，扩大企业自主权，使企业成为相对独立的社会主义经济单位；改变那种由地区和部门互相分割，壁垒森严的现象，按照专业化协作的要求和生产的需要，发展各种形式的经济联合，把企业合理组织起来，同时建立为企业服务的各种行业组织；改变封闭的、少渠道、多环节的商品流通体系，建立多渠道、少环节、开放的商品流通市场；以大中城市为依托，形成各类经济中心，组织合理的经济网络。	{'time': '1981', 'genre': 'others', 'name': "Chinese government's report"}
+逐步实行政企分工，扩大企业自主权，使企业成为相对独立的社会主义经济单位。	{'time': '1981', 'genre': 'others', 'name': "Chinese government's report"}
 今后，重工业的发展，除了适当生产一些耐用消费品以外，更重要的是要调整服务方向，扩大服务领域，提高服务质量，提高适应能力，更好地为农业和消费品工业服务，为国民经济的技术改造服务，为出口服务，为国防现代化建设服务。	{'time': '1981', 'genre': 'others', 'name': "Chinese government's report"}
 十分珍惜每寸土地，合理利用每寸土地，应该是我们的国策。	{'time': '1981', 'genre': 'others', 'name': "Chinese government's report"}
 认真贯彻执行调整、改革、整顿、提高的方针，是一个全局性的、关系到国家长远利益的问题。	{'time': '1981', 'genre': 'others', 'name': "Chinese government's report"}
@@ -2581,7 +2580,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 我们一贯遵循国际关系准则，致力于维护世界和平和促进人类进步的事业。	{'time': '1984', 'genre': 'others', 'name': "Chinese government's report"}
 和平共处五项原则经受了时间的考验，越加显示出它具有强大的生命力。	{'time': '1984', 'genre': 'others', 'name': "Chinese government's report"}
 体育、卫生事业和计划生育工作取得很大成绩，对改善人民健康状况和提高人口素质起了重要作用。	{'time': '1984', 'genre': 'others', 'name': "Chinese government's report"}
-第一，企业与国家的分配关系用法令的形式固定下来，使国家财政收入能够随着经济的发展而稳定增长；第二，企业将从新增加的利润中得到较多的收益，从而增强企业改善经营管理、提高经济效益的动力；第三，通过税收杠杆的调节作用，可以缓解目前价格不合理带来的矛盾，使企业在利润悬殊状况有所改善的情况下开展竞争，有利于鼓励先进，鞭策落后；第四，企业不再按行政隶属关系上交利润，有利于合理解决“条条”与“块块”、中央与地方的经济关系。	{'time': '1984', 'genre': 'others', 'name': "Chinese government's report"}
+第一，企业与国家的分配关系用法令的形式固定下来，使国家财政收入能够随着经济的发展而稳定增长。	{'time': '1984', 'genre': 'others', 'name': "Chinese government's report"}
 我们和这些国家都有一个共同的需要和共同的愿望，就是根据平等互利的原则进一步发展在政治、经济、文化、科技等各个领域的交流。	{'time': '1984', 'genre': 'others', 'name': "Chinese government's report"}
 我们重视发展中美关系，这是世界和平和稳定的重要因素。	{'time': '1984', 'genre': 'others', 'name': "Chinese government's report"}
 我国新参加了一些国际性组织，并在其中发挥了自己应有的作用。	{'time': '1984', 'genre': 'others', 'name': "Chinese government's report"}
@@ -2637,7 +2636,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 这是我国经济发展战略上又一个具有深远意义的变化。	{'time': '1985', 'genre': 'others', 'name': "Chinese government's report"}
 继续抓好粮食生产，努力开辟粮食的多种用途。	{'time': '1985', 'genre': 'others', 'name': "Chinese government's report"}
 它们不应当把主要注意力放在工业产值的翻番上，而应当更加注意产业结构的合理化，促进生产的社会化和专业化，推动社会技术进步，大力发展包括商业、外贸、交通、邮电、旅游、金融、保险、咨询、技术服务和其他社会服务在内的第三产业。	{'time': '1985', 'genre': 'others', 'name': "Chinese government's report"}
-合理调整农村粮食购销价格和棉花收购价格并实行合同定购，把其余农副产品的价格逐步放开，实行市场调节，推动农村商品经济的发展和农业生产结构的调整；二、适当提高铁路短途运价，以利于调整运输结构，充分发挥公路和水运的作用；三、适当拉开质量差价和地区差价，减少和淘汰质次价高、不适合市场需要的产品，促进优质名牌产品的迅速增长，促进商品的合理流通；四、对原材料、燃料等重要生产资料，计划分配部分的价格基本不动，按规定企业自销的部分，实行市场调节，推动生产资料进入市场。	{'time': '1985', 'genre': 'others', 'name': "Chinese government's report"}
+合理调整农村粮食购销价格和棉花收购价格并实行合同定购，把其余农副产品的价格逐步放开，实行市场调节，推动农村商品经济的发展和农业生产结构的调整。	{'time': '1985', 'genre': 'others', 'name': "Chinese government's report"}
 对一切严重的经济犯罪分子和刑事犯罪分子，必须继续给予严厉打击。	{'time': '1985', 'genre': 'others', 'name': "Chinese government's report"}
 对沿用过去的工资、奖金办法的，要征收超额奖金税。	{'time': '1985', 'genre': 'others', 'name': "Chinese government's report"}
 在积极搞活国内经济的同时，我们坚定不移地贯彻执行对外开放政策，推动了我国对外经济贸易特别是利用外资、引进先进技术工作的发展。	{'time': '1985', 'genre': 'others', 'name': "Chinese government's report"}
@@ -2715,7 +2714,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 改进年度计划投资安排办法，在从严控制投资规模的条件下，各部门、各地方在国家规定的范围内，对项目之间的投资可以进行必要的调整。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
 这是我国经济工作的重要原则，也是稳定经济的重要保证。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
 这几年在基本建设中推行各种形式的投资包干责任制和招标投标制，对调动部门、地方和企业的积极性，合理使用资金和增进投资效益，起了显著的促进作用。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
-反对资产阶级自由化的斗争严格限于共产党内，主要在政治思想领域中进行，着重解决根本政治原则和政治方向问题，不联系经济改革的政策、农村政策、科学技术研究和文学艺术风格技巧的探索，以及人们的日常生活；农村不搞，工厂和机关只进行正面教育；不层层找代表人物，不搞上挂下联，不搞人人过关；要把极个别顽固坚持资产阶级自由化，一贯反对四项基本原则的人，同有某些自由化观点、但不固执己见、遵守纪律的人严格区别开来，坚持团结绝大多数人的方针；要把非马克思主义的学术观点和有一般性错误的作品，以及探索中的失误，同资产阶级自由化严格区别开来；对学术理论和文化艺术上的不同意见，在遵守宪法规定的原则下，继续用正常的自由讨论、批评和反批评的方法去解决。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
+反对资产阶级自由化的斗争严格限于共产党内，主要在政治思想领域中进行，着重解决根本政治原则和政治方向问题，不联系经济改革的政策、农村政策、科学技术研究和文学艺术风格技巧的探索，以及人们的日常生活。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
 特别要坚决整顿劳动纪律，下决心改变目前许多企业严重存在着的管理不严、职责不清、纪律松弛等落后现象。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
 在这里，我还要再次郑重宣布：	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
 同时从总体上看，我国农村仍然处在开发时期，不仅通过深入改革还可以挖掘出很大潜力，而且农村资源的利用和开发也有极大的潜力，农村经济的发展前景仍然是很广阔的。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
@@ -2757,7 +2756,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 从政府来说，每一项价格改革措施的付诸实施，事先必须仔细研究和周密测算，进行多种方案的比较，力求把物价总水平的上升幅度控制在社会和人民能够承受的范围之内。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
 要继续发挥国营商业平抑物价的作用。	{'time': '1987', 'genre': 'others', 'name': "Chinese government's report"}
 我代表国务院，向全国工人、农民、知识分子、解放军指战员、广大干部和各界人士表示崇高的敬意，向全国各族人民对政府工作的支持表示衷心的感谢！	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
-以改革总揽全局，把改革和发展更加紧密地结合起来，使两者能够更好地相互配合和相互促进；认真执行长期稳定发展经济的战略，更加突出地抓好科学技术和教育事业的发展和改革，加快发展沿海地区外向型经济，进一步促进全国经济的繁荣和现代化水平的提高；在加快和深化经济体制改革的同时，积极而又稳妥地推进政治体制改革，加强社会主义民主和法制建设，巩固和发展安定团结的政治局面；围绕着经济建设并为经济建设提供思想保证和智力支持，大力加强社会主义精神文明建设，逐步造成适应社会主义要求的良好社会风尚。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
+以改革总揽全局，把改革和发展更加紧密地结合起来，使两者能够更好地相互配合和相互促进。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
 工业企业的全员劳动生产率平均每年增长６．５％。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
 充分利用我国海岸线长、江湖通航水道多的优势，使国内水运事业有一个较大的发展，同时进一步扩大远洋运输，为发展对外贸易服务。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
 促进科技进步，必须从深化科技体制改革入手，鼓励越来越多的科技人员直接为经济建设服务，缩短科学技术成果转化为生产力的时间。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
@@ -2786,7 +2785,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 我们必须坚持从实际出发，遵循客观规律，不断解决社会经济生活中的矛盾，促进经济建设的稳定协调发展。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
 农村社会总产值增长１２．７％，粮食总产量增加１０９亿公斤，达到４０２４亿公斤。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
 今后农村产业结构的调整要向两个方面发展：	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
-随着市逐步开放和商品货币流通日益扩大，许多法规和制度有的尚未建立，有的不够健全，有的执行又不够严格，管理监督也没有跟上，偷税漏税、行贿受贿、敲诈勒索、假冒伪造等恶劣行为时有发生；一些干部以权谋私，甚至贪污腐化；一些政府机构官僚主义严重，一些部门、地方和企事业单位奢侈浪费惊人；在交通运输和生产建设中，由于领导不力、管理不善、劳动纪律松弛和规章制度执行不严等原因，恶性事故多次发生。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
+随着市逐步开放和商品货币流通日益扩大，许多法规和制度有的尚未建立，有的不够健全，有的执行又不够严格，管理监督也没有跟上，偷税漏税、行贿受贿、敲诈勒索、假冒伪造等恶劣行为时有发生。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
 在社会主义精神文明建设中，必须坚持为社会主义服务、为人民服务的方向，进一步贯彻“百家争鸣、百花齐放”的方针，执行稳定的文化政策，促进各项文化事业的发展和繁荣。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
 利用外资要广开渠道，根据偿还能力和国内资金与物资的配套能力，保持适当的规模和合理的结构，正确引导投资方向，提高使用外资的综合效益。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
 尽快制定《国家公务员条例》，研究制定《国家公务员法》，开办行政学院，培养行政管理人员。	{'time': '1988', 'genre': 'others', 'name': "Chinese government's report"}
@@ -3155,7 +3154,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 对需要扶持的文化艺术精粹和公益性的文化事业，各级政府都要有重点地给予支持和帮助。	{'time': '1994', 'genre': 'others', 'name': "Chinese government's report"}
 要加强对境外投资的审核管理和对境外企业的监督。	{'time': '1994', 'genre': 'others', 'name': "Chinese government's report"}
 坚持专门机关和群众工作相结合，齐抓共管，把社会治安综合治理的措施落实到基层，为经济建设和人民安居乐业创造良好的社会环境。	{'time': '1994', 'genre': 'others', 'name': "Chinese government's report"}
-适当提高粮食收购价和棉花定购价，支持农用工业发展，加强农业生产资料价格管理；增加中央和地方对农业的投入，鼓励并引导集体和农民增加投入，加强农业基本建设和综合开发；完善国家粮食储备体系，建立粮食风险基金，保持粮食市场的稳定；在稳定粮食棉花种植面积和提高单位面积产量的基础上，调整农业生产结构，发展多种经营，国家准备重点扶持５００个商品粮大县、１５０个优质棉大县，建设一批各具特色的高产优质高效农业示范区；发展乡镇企业是农村奔小康的必由之路，要继续支持乡镇企业尤其是中西部地区乡镇企业的发展；继续实行科教兴农，培养一大批用得上、留得住的农业技术人才，稳定农业科研队伍和技术推广机构，积极防治病虫害，推广优良品种和先进适用技术；继续落实减轻农民负担的措施，并对突出问题进行专项治理。	{'time': '1994', 'genre': 'others', 'name': "Chinese government's report"}
+适当提高粮食收购价和棉花定购价，支持农用工业发展，加强农业生产资料价格管理。	{'time': '1994', 'genre': 'others', 'name': "Chinese government's report"}
 向台湾同胞、港澳同胞、海外侨胞和一切关心、支持我国现代化建设的国际友人，致以诚挚的谢意！	{'time': '1994', 'genre': 'others', 'name': "Chinese government's report"}
 各级政府要把环境保护纳入经济和社会发展计划，坚持经济建设、城乡建设、环境建设同步规划、同步实施、同步发展，实行城乡环境综合治理，依法加强监督检查。	{'time': '1994', 'genre': 'others', 'name': "Chinese government's report"}
 在新的一年里，我们要在邓小平同志建设有中国特色社会主义理论的指引下，在以江泽民同志为核心的党中央领导下，坚定不移地贯彻执行党的基本路线，加强全国各族人民的大团结，同心同德，锐意创新，自力更生，艰苦创业，夺取改革开放和现代化建设的新胜利！	{'time': '1994', 'genre': 'others', 'name': "Chinese government's report"}
@@ -3283,7 +3282,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 要加强经济司法和行政执法，严厉打击骗税逃税、走私贩私、金融诈骗、制售假冒伪劣商品、侵犯知识产权等违法犯罪行为，整顿经济秩序。	{'time': '1996', 'genre': 'others', 'name': "Chinese government's report"}
 国家外汇储备有较多增加，人民币汇价稳定。	{'time': '1996', 'genre': 'others', 'name': "Chinese government's report"}
 基础设施和基础工业建设要与国民经济发展相适应。	{'time': '1996', 'genre': 'others', 'name': "Chinese government's report"}
-保持国民经济持续、快速、健康发展；积极推进经济增长方式转变，把提高经济效益作为经济工作的中心；实施科教兴国战略，促进科技、教育与经济紧密结合；把加强农业放在发展国民经济的首位；把国有企业改革作为经济体制改革的中心环节；坚定不移地实行对外开放；实现市场机制和宏观调控的有机结合，把各方面的积极性引导好、保护好、发挥好；坚持区域经济协调发展，逐步缩小地区发展差距；坚持物质文明和精神文明共同进步，经济和社会协调发展。	{'time': '1996', 'genre': 'others', 'name': "Chinese government's report"}
+保持国民经济持续、快速、健康发展；积极推进经济增长方式转变，把提高经济效益作为经济工作的中心。	{'time': '1996', 'genre': 'others', 'name': "Chinese government's report"}
 鼓励农村种植业、养殖业、加工业的有机结合，推动农工贸一体化，促进农业向高产、优质、高效方向发展。	{'time': '1996', 'genre': 'others', 'name': "Chinese government's report"}
 ２０００年粮食总产量要保证达到４９００亿公斤，力争达到５０００亿公斤。	{'time': '1996', 'genre': 'others', 'name': "Chinese government's report"}
 加强司法、监察和审计工作，建立健全勤政廉政制度和监督制约机制，深入开展思想教育，标本兼治，防范和消除腐败。	{'time': '1996', 'genre': 'others', 'name': "Chinese government's report"}
@@ -3449,7 +3448,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 投资要重点用于加强农林水利建设，能源、交通、通信、环保等基础设施建设，加大高新技术产业的投入，提高技术改造投资的比重，加快普通民用住宅的建设。	{'time': '1998', 'genre': 'others', 'name': "Chinese government's report"}
 今年要因势利导，继续扩大对外开放，加强经济、科技、教育、文化等各个领域的国际交流与合作，努力提高开放的成效。	{'time': '1998', 'genre': 'others', 'name': "Chinese government's report"}
 提高医疗服务水平，加强药品管理。	{'time': '1998', 'genre': 'others', 'name': "Chinese government's report"}
-高举邓小平理论伟大旗帜，全面贯彻中国共产党第十五次全国代表大会精神，加强农业基础地位，加快以国有企业为重点的各项改革，加大经济结构调整力度，提高对外开放水平，继续推进经济体制和经济增长方式的根本转变，保持国民经济持续快速健康发展；加强民主法制建设，推进依法治国，坚持不懈地开展反腐败斗争，维护社会稳定；加强精神文明建设，促进教育、科学、文化发展和社会全面进步；加强全国各族人民的团结，为建设有中国特色社会主义事业齐心奋斗。	{'time': '1998', 'genre': 'others', 'name': "Chinese government's report"}
+高举邓小平理论伟大旗帜，全面贯彻中国共产党第十五次全国代表大会精神，加强农业基础地位，加快以国有企业为重点的各项改革，加大经济结构调整力度，提高对外开放水平，继续推进经济体制和经济增长方式的根本转变，保持国民经济持续快速健康发展。	{'time': '1998', 'genre': 'others', 'name': "Chinese government's report"}
 但是应该看到，现在就业潜力不小。	{'time': '1998', 'genre': 'others', 'name': "Chinese government's report"}
 广大干部群众深入学习邓小平理论，进一步提高了建设有中国特色社会主义的自觉性。	{'time': '1998', 'genre': 'others', 'name': "Chinese government's report"}
 科技工作面向经济建设主战场，集中力量解决了一批重大和关键技术问题，不少科技成果得到推广和应用，为国民经济和社会发展作出了重要贡献。	{'time': '1998', 'genre': 'others', 'name': "Chinese government's report"}
@@ -3496,7 +3495,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 繁荣文学艺术，重视社会科学研究，发展新闻出版、广播影视事业，加强文物保护工作和档案工作。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 要敢于坚持原则，敢于碰硬，不能回避矛盾，更不能随波逐流；要深入实际，体察民情，为群众办实事，力戒空话套话；要求真务实，严禁虚报浮夸、欺上瞒下；切实改变文山会海、繁文缛节，克服形式主义、官僚主义，把精力真正集中到研究和解决实际问题上来。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 科技教育和各项社会事业继续发展。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
-市场需求不旺，启动难度较大；多年重复建设造成大多数工业行业生产能力过剩，经济结构矛盾更加突出，经济运行质量和效益不高；部分国有企业经营困难加剧，多年积累的金融风险不容忽视；财经纪律松弛，经济秩序比较混乱；乱收费、乱集资、乱摊派、乱罚款屡禁不止，一些地方农民和企业不堪重负；部分群众生活仍然比较困难，社会就业压力较大，生态环境恶化的问题相当突出；某些消极腐败现象还比较严重，有些地方的社会治安状况不好。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
+多年重复建设造成大多数工业行业生产能力过剩，经济结构矛盾更加突出，经济运行质量和效益不高的问题。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 活跃市场流通，大力开拓国内市场特别是农村市场，要从各地农村的实际出发，生产和供应适销对路商品，以满足广大农村居民生产和生活的需要。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 二是以市场为导向，促进多种形式的产学研结合。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 在党和政府的坚强领导下，广大军民团结奋战，特别是人民军队发挥了不可替代的关键作用，取得了抗洪斗争的伟大胜利，把灾害损失减到了最低限度。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
@@ -3517,7 +3516,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 今年是实现这个目标的关键一年。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 一是认真完善银行、证券、保险和信托业分业经营和管理的体制，实行金融监管责任制，切实加强对各类金融机构的监管。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 同时，要不拘一格，延揽人才，加强技术开发，努力开拓市场，全面提高企业的活力和竞争能力。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
-所有项目都要严格执行建设程序，加强可行性研究，按规定的权限进行审批，精心勘察设计和施工，认真做好竣工验收工作；必须改革、整顿和规范建设市场，积极推行项目法人责任制、招标投标制、工程监理制和合同管理制，严禁层层转包和违法分包；要层层落实领导责任制，综合运用经济、法律、行政和舆论监督等手段严把工程质量关，对事故责任者和有关领导人必须严肃查处，直至追究刑事责任。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
+所有项目都要严格执行建设程序，加强可行性研究，按规定的权限进行审批，精心勘察设计和施工，认真做好竣工验收工作。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 中央企业由中央财政负担，地方企业由地方财政负担。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 我们要坚定不移地把加强和巩固同广大发展中国家的团结与合作，作为外交工作的立足点。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
 实施科教兴国战略，是实现经济振兴和国家现代化的根本大计，也是本届政府极其重要的任务。	{'time': '1999', 'genre': 'others', 'name': "Chinese government's report"}
@@ -3554,16 +3553,16 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 陆文婷一一回答了，但只限于回答，没有更多的话。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 啊，真的，他变得多么苍老啊!陆文婷心酸地扑到他身旁，抚着他的前额说：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 她记得，她是换了衣服的，是那件灰色的布上衣。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"园园，你自己去买个烧饼吃吧!"园园接过钱，正往外走，又回过身来问：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+园园，你自己去买个烧饼吃吧!园园接过钱，正往外走，又回过身来问：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 姜亚芬在一旁说。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 他仔细听了她心脏和肺部的情况，看了心动电描图和病房记录，嘱咐值班大夫继续为病人静脉滴注极化液，注射罂粟碱和吗啡，密切监视心电变化，以防止梗塞面扩大和发生严重的合并症。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 片片雪花打在他们脸上，戏弄着他们的头发。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 圆鼓鼓红扑扑的脸儿，黑眉毛高鼻梁配上一个红嘴唇儿，一只双眼皮儿大眼睛滴溜溜水汪汪的。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"换一根针来!"她的声音完全是命令式的，护士忙从消毒盒里把旧针拿了来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+换一根针来!"她的声音完全是命令式的，护士忙从消毒盒里把旧针拿了来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 秦波并不屈服，她向焦成思开起连珠炮来：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 傅家杰拦住姜亚芬说：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 谁知，就在她把巩膜全切开时，有孔巾下的焦成思忽然身子一动。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"可惜，能看到这一点的人太少了!"傅家杰愣了一下，给刘学尧斟上酒，笑道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+可惜，能看到这一点的人太少了!"傅家杰愣了一下，给刘学尧斟上酒，笑道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 他拉着刘学尧的袖口笑道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 然而，生活总是出人意料的，傅家杰忽然闯进了她那宁静的、甚至是刻板的生活中来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 傅家杰顾不得多想，回头就往外走，到门口又扭头说了一声：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
@@ -3573,7 +3572,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 焦成思毫不犹豫地答道。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 开始，哼哼的佳佳，哭喊妈妈的佳佳，还在她脑子里转。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 一个十六七岁的姑娘，猛地从房中追了出来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"张大爷，快坐下吧!""您坐，陆大夫!俺找您，说个情况。""	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+张大爷，快坐下吧!""您坐，陆大夫!俺找您，说个情况。""	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 陆文婷拿出佳佳去年穿的小棉袄，把它拆开，放大，接长袖子。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 秦波马上盯问道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 傅家杰把手从额上放下说，"我现在真成废墟了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
@@ -3583,16 +3582,16 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 他又切了点葱花、几片榨菜分放在碗里。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 难道我也……	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 今天又到了走投无路的时候，她只好去找这位好心肠的大妈。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"怎么回事?"陆文婷没有答话，只把针拿起来对着灯光照看。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+怎么回事?"陆文婷没有答话，只把针拿起来对着灯光照看。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 二十四小时呆在医院，这算什么?她恨不得一天有四十八小时献给医院!四年之内不能结婚，这又算得了什么?医学上有成就的人，不是晚婚就是独身，这样的范例还少吗?小陆大夫把自己全身的精力投入了工作，兢兢业业地在医学的大山上登攀。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 我要挣扎，我要反抗，我要留在人间。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 你作出了多大的牺牲，只有我知道。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 她微笑着略带嘲讽地说，"我们眼科是手术科，一针一剪都严格得很，不能有半点儿幻想的……""	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 陆文婷忙转身迎出去，双手扶住这盲人，说：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"你看她，还不至于……"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+你看她，还不至于……"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 园园和佳佳，多么逗人疼爱的两个小人儿!不能说孩子的降临没有给这个小家庭带来欢乐，但是，他们也带来了混乱和灾难。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"是我没有把你照顾好……"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"你身体好像不大好，陆大夫?"这又是什么意思?她整天给别人治病，很少研究自己的健康。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+是我没有把你照顾好……"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+你身体好像不大好，陆大夫?"这又是什么意思?她整天给别人治病，很少研究自己的健康。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 这五个大学生，有的很适宜搞眼科，可是看不起眼科，表示不愿意在眼科工作；有的倒是愿意在眼科，可又把眼科看得很简单，以为这是很清闲的一科。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 用自行车推吧?她看来坐都坐不住，怎么推?这时，一辆浅灰色的"一三○"小卡车开了过来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 这只能说是命运的安排，谁能想到在她生活的路上会跳出一个傅家杰来?他要结婚，她怎么能拒绝呢?你看他多么固执地追求着，渴望着，愿意为她牺牲一切——我愿意是废墟，……	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
@@ -3604,20 +3603,20 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 推迟半小时，到食堂吃饭的同志就赶不上开饭时间，要吃凉菜；双职工也赶不上回家给孩子做饭了。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 这是一个信号啊!"赵天辉摇摇头又说，"中年大夫，是我们医院的骨干力量，工作上担子重，生活负担也最重，身体素质一年不如一年，长此以往，一个个病倒了，你这位主任，我这个院长就没法办了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 秦波同志接连来了两次电话，询问手术前要注意什么事项，需要病人和病人家属做哪些配合，在精神上和物质上都需要做些什么准备?这使她很难回答。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"她在我们这儿，就算身强力壮的了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+她在我们这儿，就算身强力壮的了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 陆文婷心中觉得奇怪，怎么天天在医院走来走去，竟没有发现这里还有鸟儿?她抱着孩子站在院子当中，不知该往哪儿去。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 秦波又追出来，喊住她：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"我先睡了。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+我先睡了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 陈大妈是街道积极分子，一向热心助人。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 孙主任眼望窗外飘泊落下的黄叶，耳听那如泣如诉的沙沙沙的声响，感到一阵从来未曾有过的怅惘。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 当陆文婷再次脱下身上的长袍，伸出手臂去套另一件新袍的一刹那，她忽然感到眼前冒起一排金星。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"什么时候再有半间房就好了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"文婷，你小孩的肺炎好了吗?"啊!亚芬今天是怎么啦?难道她不知道一个眼科大夫上了手术台，就应该摒弃一切杂念，全神贯注于病人的眼睛，忘掉一切，包括自己，也包括自己的爱人、孩子和家庭。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+什么时候再有半间房就好了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+文婷，你小孩的肺炎好了吗?"啊!亚芬今天是怎么啦?难道她不知道一个眼科大夫上了手术台，就应该摒弃一切杂念，全神贯注于病人的眼睛，忘掉一切，包括自己，也包括自己的爱人、孩子和家庭。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 现在，她不能歪过头去了，她也不能问话了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 对，对，"焦成思说，"我上次右边这只眼睛做的时候，也是打开，缝上，又打开的。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 他又给医院政治处打电话。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 姜亚芬抬起头来，忽然叫道，"你，你的腿怎么啦?""坐久了，有点麻，一会儿就好了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"陆大夫，我拿您也不当外人，俺就实话实说吧，俺愁的就是钱。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+陆大夫，我拿您也不当外人，俺就实话实说吧，俺愁的就是钱。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 又不知过了多久，忽然，一阵撕裂人心的哭叫声，震动着每一个病房，也把傅家杰从麻木的疲惫状态中惊醒。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 院里那些调皮的孩子们，常常来窥探这对新婚夫妇的秘密，他们看到的总是这样一幅夜读图。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 她素来是从容的沉静的。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
@@ -3626,7 +3625,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 在中国，要干一点事情真不容易啊!"傅家杰脱衣上床时说，"战争年代，老一辈为了革命的胜利作出了很多牺牲。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 他们进入病房时，孙逸民也走了进来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 全国解放时，他在国外学成归来，以自己精湛的医术服务于新生的人民共和国。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"这天晚上，客人走了，孩子睡了，陆文婷刷了锅，洗了碗，回到屋里，只见傅家杰歪身靠在床头，摸着自己的额头发呆。"""	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+这天晚上，客人走了，孩子睡了，陆文婷刷了锅，洗了碗，回到屋里，只见傅家杰歪身靠在床头，摸着自己的额头发呆。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 真的，我只想我的病人，我没有尽到做妻子的责任，也没有尽到做母亲的责任……""	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 她总是用瘦削的双肩，默默地承受着生活中各种突然的袭击和经常的折磨。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 她用整个纯洁的身心来迎接这迟到的爱情。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
@@ -3635,13 +3634,13 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 这倒使陆文婷免去了后顾之忧。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 你上午已经安排两个手术了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 接着是晚自习，然后在解剖室呆到深夜，她把青春慷慨地奉献给一堂接着一堂的课程，一次接着一次的考试。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"你老了，我，我真不愿意你老……""	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+你老了，我，我真不愿意你老……	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 他的眼睛怎么了?好像是失明?"陆大夫，你现在是在门诊还是在病房?"赵院长问。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 可是，这个书呆子会念诗，而且念得那么好!"这是谁的诗?"她问他。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 孙主任，听您的，我们就不进去。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 孙逸民拉住内科主任问道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 每天八点上班，九点下班；二点上班，三点下班。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"其实，眼睛做个手术，也用不着这么兴师动众。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+其实，眼睛做个手术，也用不着这么兴师动众。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 张大爷，您儿子花了这么多钱，让您到这儿治病，没治好就回去了，我们也过意不去啊!""7，有您这份儿心，啥都有了。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 我已经不像中年人，好像是老年了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 走出病房，内科主任对孙逸民说道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
@@ -3656,28 +3655,28 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 但，她仰卧着，两个眼睛直视着一个地方，目光是呆滞的，没有任何表情。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 张老汉可不像一般病人那么默默地听着，他觉得大夫跟你说话，你不吭气儿是不够礼貌的。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 他几乎想用手蒙住耳朵，不愿再听那凄厉的哭声。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"您就捆吧，这还用说!说实话，姑娘，要不是这双眼制的我，我可不是那老实呆着的主儿。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+您就捆吧，这还用说!说实话，姑娘，要不是这双眼制的我，我可不是那老实呆着的主儿。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 你要上哪儿去呀?"陆文婷问。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 一滴，一滴，缓缓地输进病人那青筋隆起的血管里。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 陆文婷觉得好像是从高高的云端摔落下来，跌得浑身疼痛难禁，没有一点力气了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"老大爷，给您手腕系上点儿，这是医院的规矩!"张老汉一愣，继而又哈哈笑道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+老大爷，给您手腕系上点儿，这是医院的规矩!"张老汉一愣，继而又哈哈笑道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 然后又说，"焦副部长，我们开始吧!"焦成思连声叹息着，似乎一时很难安静下来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 孙逸民也赶在上班前来看望陆文婷。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"那时候，我被打成叛徒。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+那时候，我被打成叛徒。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 其实，陆文婷晚上跑到医院去是常有的事。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"亚芬，飞机票订好了吗?"姜亚芬说什么了?她好像什么也没有说，只是眼圈儿红了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+亚芬，飞机票订好了吗?"姜亚芬说什么了?她好像什么也没有说，只是眼圈儿红了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 可惜，这一点，我没有学来!我爱说，爱提意见，结果是祸从口出，每次运动都挨上。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-他们决定从明天起就试一试。"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+他们决定从明天起就试一试。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 陆文婷示意护士把孩子的手腕用床两边的带子系上。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 赵院长总保持着学者的风度，挺直的脊背，和蔼的面容，金丝眼镜后面一双含笑的眼睛，头发梳理得很整齐。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"你可以咳嗽了!轻一点!"然而，焦成思并没有咳出声来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+你可以咳嗽了!轻一点!"然而，焦成思并没有咳出声来。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 各式各样的球鞋像装在万花筒里，在她面前转开了：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 飞不动了……"	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 陆文婷占据了惟一的一张三屉桌，借助于外文词典，阅读国外眼科医学文献，贪婪地在自己的本子上记下有用的资料。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"这么晚了，还上医院?"陆文婷一边穿上外衣，一边说：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+这么晚了，还上医院?"陆文婷一边穿上外衣，一边说：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 秋风吹动着窗外的梧桐树叶，沙沙地响。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 他微笑着挨近她，脸对着脸，靠得那么近。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
-"眼科的病人怎么到处乱窜啊!""!瞧您说的，怎咋不懂啊!"张老汉的嗓门可小多了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
+眼科的病人怎么到处乱窜啊!"瞧您说的，怎咋不懂啊!"张老汉的嗓门可小多了。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 听了这话，焦成思忽然叫道：	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 妈妈呀!"后来，这情景，常在她的梦中萦绕。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
 朦胧之中，陆文婷大夫觉得自己走在一条漫长的路上，没有边际，没有尽头。	{'time': '1990', 'genre': 'literature', 'category': 'general fiction', 'name': '人到中年'}
@@ -5826,7 +5825,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 这显然已不完全是为了演出，相声演出中的学语用不着那么标准。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 如雨的马蹄，如雷的吶喊，如注的热血。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 包围着它的是延绵不绝的土墙、泥丘、浊沟、小摊、店招。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
-这种人必得长期为官，有足够的资财可以搜集书籍；这种人为官又最好各地迁移，使他们有可能搜集到散落四处的版本；这种人必须有极高的文化素养，对各种书籍的价值有迅捷的敏感；这种人必须有清晰的管理头脑，从建藏书楼到设计书橱都有精明的考虑，从借阅规则到防火措施都有周密的安排；这种人还必须有超越时间的深入谋划，对如何使自己的后代把藏书保存下去有预先的构想。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
+这种人必得长期为官，有足够的资财可以搜集书籍。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 历史的景深和民族心理的景深。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 实实在在为民造福的人升格为神，神的世界也就会变得通情达理、平适可亲。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 那全是远年的坟堆。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
@@ -6095,7 +6094,7 @@ C国驻华大使馆的大门两侧，一对大红“喜”字引人注目，这�
 起点名字本也无妨，便于人们寻访和辨认，但一切都调理得那么文雅，苍劲的自然界也就被抽干了生命。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 要扭动一下身子，自己乐一乐，也让神乐一乐了。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 她一定学过一点舞蹈，数花时的身段让人联想到《天女散花》。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
-1905年10月，俄国人勃奥鲁切夫用一点点随身带着的俄国商品，换取了一大批文书经卷；1907年5月，匈牙利人斯坦因用一迭子银元换取了24大箱经卷、5箱织绢和绘画；1908年7月，法国人怕希和又用少量银元换去了10大车、6000多卷写本和画卷；1911年10月，日本人吉川小一郎和橘瑞超用难以想象的低价换取了300多卷写本和两尊唐塑；1914年，斯坦国第二次又来，仍用一点银元换去了5大箱、600多卷经卷；……	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
+1905年10月，俄国人勃奥鲁切夫用一点点随身带着的俄国商品，换取了一大批文书经卷……	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 在灯光灿烂的现代都市街道上驾车遇雨，实在是谈不上多少诗意的，只有一次在国外一个海滨，天色已晚，瓢泼大雨就像把我们的车摔进了大瀑布的中心，替我驾车的女士完全认不得路了，一路慌乱地在水帘和夜幕间转悠，事后倒觉得有了点诗意，原因也许正是碰到了自然所给予的艰难。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 相看发秃无归计，一梦东南即自羞！	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
 女教师眼波一闪，说声“跟我走”，拉起她的手走向办公室。	{'time': '1986', 'genre': 'literature', 'category': 'prose', 'name': '随想录'}
@@ -7216,7 +7215,7 @@ S让了步，答应看信。	{'time': '1992', 'genre': 'others', 'name': '他们
 说不清是好奇心的驱使，吸引力的作怪，还是自我性生理上的连索（锁）反应。	{'time': '1992', 'genre': 'others', 'name': '他们的世界——中国男同性恋群落透视'}
 有一次院里修房子，搭了个窝棚，地上铺着木板，我两就躺一块了……	{'time': '1992', 'genre': 'others', 'name': '他们的世界——中国男同性恋群落透视'}
 「文革时期，我和大学里一个女同学比较好，她是69届，我是68届，他就算是我的一个恋人吧。	{'time': '1992', 'genre': 'others', 'name': '他们的世界——中国男同性恋群落透视'}
-根据一位美国社会学家的统计，在美国，公开身份的男同性恋者当中，有百分之十接为亲密伴侣，同居多年，不再找伴，过着与异性恋伴侣相似的生活，这批人造成的社会问题和自身的心理问题最少，感觉最为快乐；有百分之十八的人属于开放性伴侣，即虽然经常有固定伴侣，但不断寻找新伴侣，这些人生活不如第一种人快乐；还有百分之十五的人属于「游荡的单身者」，他们性活动最为活跃，喜欢有许多性伴侣，而不是仅一个，这种人以性活动为其生活的重心，不断更换伴侣，他们精力最为充沛，最不后悔为同性恋者，性情友好，自信心强，社会及心理调适的成功程度仅次于第一类人；第四类人有许多伴侣，但是有心理和性方面的问题，不能成功地建立有感情的关系，这类人占总数的百分之十二；第五类是非性的同性恋者，他们在性生活上不活跃，伴侣很少，与人没有亲密关系，很少与人接触，这批人大多数年龄较大占总数的百分之十六；此外还有百分之二十九的人不好归如任何一类中去。	{'time': '1992', 'genre': 'others', 'name': '他们的世界——中国男同性恋群落透视'}
+根据一位美国社会学家的统计，在美国，公开身份的男同性恋者当中，有百分之十接为亲密伴侣，同居多年，不再找伴，过着与异性恋伴侣相似的生活，这批人造成的社会问题和自身的心理问题最少，感觉最为快乐。	{'time': '1992', 'genre': 'others', 'name': '他们的世界——中国男同性恋群落透视'}
 后来在厕所有碰上一个年轻人也做这事，就决定不再压抑自己了。	{'time': '1992', 'genre': 'others', 'name': '他们的世界——中国男同性恋群落透视'}
 除了单恋，当然还有「失恋」。	{'time': '1992', 'genre': 'others', 'name': '他们的世界——中国男同性恋群落透视'}
 根据我们一项关于青春期的恋爱的研究，只有百分之六点二的青春期恋爱抱着「寻找终身伴侣」的动机。	{'time': '1992', 'genre': 'others', 'name': '他们的世界——中国男同性恋群落透视'}
@@ -8627,7 +8626,7 @@ S让了步，答应看信。	{'time': '1992', 'genre': 'others', 'name': '他们
 愈发爱怜栽培，传授《三击掌》、《徐母骂曹）、《二进宫》给她。	{'time': '1999', 'genre': 'literature', 'category': 'prose', 'name': '朋友'}
 能嘿嘿笑，笑到无声时已袒胸睡卧柳下。	{'time': '1999', 'genre': 'literature', 'category': 'prose', 'name': '朋友'}
 没事不要寻事，有了事就不要怕事。	{'time': '1999', 'genre': 'literature', 'category': 'prose', 'name': '朋友'}
-从两个山庄的起名上，你就可以窥见到中国农民乌托邦式的理想色彩，它们修建的起因当然为着商业目的，但修建的过程中强烈地渗透着要给西安的建筑上留一份文化遗产的精神，其屋舍构造，池渠布局，道路走向，甚至一堵墙，一棵树，一块石头的安放，都具象在大象之中，经意于不经意之处，区别着宫廷式和好莱坞式，以现代文明的基础上充分展示农耕文化；正因为如此，山庄造成之后，游人蜂拥而至，不仅经济收入可观，其本身就成了一处园林景观。	{'time': '1999', 'genre': 'literature', 'category': 'prose', 'name': '朋友'}
+从两个山庄的起名上，你就可以窥见到中国农民乌托邦式的理想色彩，它们修建的起因当然为着商业目的，但修建的过程中强烈地渗透着要给西安的建筑上留一份文化遗产的精神，其屋舍构造，池渠布局，道路走向，甚至一堵墙，一棵树，一块石头的安放，都具象在大象之中，经意于不经意之处，区别着宫廷式和好莱坞式，以现代文明的基础上充分展示农耕文化。	{'time': '1999', 'genre': 'literature', 'category': 'prose', 'name': '朋友'}
 “我不懂教育嘛，你们怎么现在都英英武武的？	{'time': '1999', 'genre': 'literature', 'category': 'prose', 'name': '朋友'}
 在我的朋友中，英文忠厚而幽默，我很爱他。	{'time': '1999', 'genre': 'literature', 'category': 'prose', 'name': '朋友'}
 一年夏天，回村探母，正在屋里梳头，墙外忽有枪声，有东西跌在院中一响。	{'time': '1999', 'genre': 'literature', 'category': 'prose', 'name': '朋友'}
