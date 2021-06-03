@@ -152,11 +152,11 @@ def build_corpus(text, num1, num2):
             optimal_solution = i
         if num1 < text_len & text_len < num2:
             return corpus
-        for j in range(1, 100):
-            corpus = random.sample(text, optimal_solution)
-            text_len = textlen(corpus)
-            if num1 < text_len & text_len < num2:
-                return corpus
+    for j in range(1, 100):
+        corpus = random.sample(text, optimal_solution)
+        text_len = textlen(corpus)
+        if num1 < text_len & text_len < num2:
+            return corpus
 
 
 # save the text and its information
